@@ -1,0 +1,5 @@
+[slaves]
+ubuntu@ec2-35-157-219-255.eu-central-1.compute.amazonaws.com
+ubuntu@ec2-35-158-185-70.eu-central-1.compute.amazonaws.com
+[tracker]
+ubuntu@ec2-35-158-189-199.eu-central-1.compute.amazonaws.com
