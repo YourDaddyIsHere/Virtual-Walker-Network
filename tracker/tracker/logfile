@@ -1,0 +1,3094 @@
+2017-06-22 16:34:57,817 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 16:34:57,832 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 16:34:58,182 INFO     take step to: ('131.180.27.131', 10100)
+2017-06-22 16:35:00,978 INFO     take step to: ('131.180.27.131', 10100)
+2017-06-22 16:35:03,978 INFO     take step to: ('131.180.27.131', 10100)
+2017-06-22 16:35:06,978 INFO     take step to: ('131.180.27.131', 10100)
+2017-06-22 16:35:09,979 INFO     take step to: ('131.180.27.131', 10100)
+2017-06-22 16:35:12,978 INFO     take step to: ('131.180.27.131', 10100)
+2017-06-22 16:35:16,010 INFO     take step to: ('131.180.27.131', 10100)
+2017-06-22 16:35:18,978 INFO     take step to: ('131.180.27.131', 10100)
+2017-06-22 16:35:36,202 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 16:35:36,218 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 16:35:36,343 INFO     take step to: ('0.0.0.0', 10100)
+2017-06-22 16:35:39,345 INFO     take step to: ('0.0.0.0', 10100)
+2017-06-22 16:35:42,347 INFO     take step to: ('0.0.0.0', 10100)
+2017-06-22 16:35:45,346 INFO     take step to: ('0.0.0.0', 10100)
+2017-06-22 16:35:48,347 INFO     take step to: ('0.0.0.0', 10100)
+2017-06-22 16:35:51,346 INFO     take step to: ('0.0.0.0', 10100)
+2017-06-22 16:36:02,474 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 16:36:02,489 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 16:36:02,617 INFO     take step to: ('127.0.0.1', 10100)
+2017-06-22 16:36:05,621 INFO     take step to: ('127.0.0.1', 10100)
+2017-06-22 16:36:08,620 INFO     take step to: ('127.0.0.1', 10100)
+2017-06-22 16:36:11,620 INFO     take step to: ('127.0.0.1', 10100)
+2017-06-22 16:36:14,620 INFO     take step to: ('127.0.0.1', 10100)
+2017-06-22 16:36:17,620 INFO     take step to: ('127.0.0.1', 10100)
+2017-06-22 16:36:20,620 INFO     take step to: ('127.0.0.1', 10100)
+2017-06-22 16:37:41,576 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 16:37:41,592 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 16:37:41,712 INFO     take step to: ('127.0.0.1', 10100)
+2017-06-22 16:37:44,715 INFO     take step to: ('127.0.0.1', 10100)
+2017-06-22 16:39:25,587 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 16:39:25,602 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 16:39:25,729 INFO     take step to: ('127.0.0.1', 10100)
+2017-06-22 16:39:28,732 INFO     take step to: ('127.0.0.1', 10100)
+2017-06-22 16:39:31,732 INFO     take step to: ('127.0.0.1', 10100)
+2017-06-22 16:39:34,732 INFO     take step to: ('127.0.0.1', 10100)
+2017-06-22 16:39:37,730 INFO     take step to: ('127.0.0.1', 10100)
+2017-06-22 16:39:40,732 INFO     take step to: ('127.0.0.1', 10100)
+2017-06-22 16:39:43,732 INFO     take step to: ('127.0.0.1', 10100)
+2017-06-22 16:39:46,732 INFO     take step to: ('127.0.0.1', 10100)
+2017-06-22 16:39:49,732 INFO     take step to: ('127.0.0.1', 10100)
+2017-06-22 16:39:54,522 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 16:39:54,538 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 16:39:54,658 INFO     take step to: ('127.0.0.1', 10100)
+2017-06-22 16:39:57,662 INFO     take step to: ('127.0.0.1', 10100)
+2017-06-22 16:40:00,661 INFO     take step to: ('127.0.0.1', 10100)
+2017-06-22 16:40:03,662 INFO     take step to: ('127.0.0.1', 10100)
+2017-06-22 16:40:06,661 INFO     take step to: ('127.0.0.1', 10100)
+2017-06-22 16:40:09,662 INFO     take step to: ('127.0.0.1', 10100)
+2017-06-22 16:41:03,844 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 16:41:03,859 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 16:41:03,986 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:41:06,989 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:41:09,989 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:41:12,989 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:41:15,989 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:41:18,989 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:42:51,778 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 16:42:51,794 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 16:42:51,914 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:42:54,917 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:42:57,917 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:43:00,917 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:43:03,917 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:43:06,917 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:43:09,916 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:43:12,917 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:43:15,917 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:43:18,916 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:43:21,917 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:44:50,221 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 16:44:50,237 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 16:44:50,358 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:44:53,362 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:44:56,361 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:44:59,361 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:45:02,360 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:45:05,361 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:45:08,361 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:45:11,361 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:45:14,361 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:45:17,361 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:45:20,361 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:46:00,918 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 16:46:00,934 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 16:46:01,054 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:46:04,057 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:46:07,058 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:46:10,057 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:46:13,058 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:46:16,057 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:47:38,317 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 16:47:38,334 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 16:47:38,455 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:47:41,458 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:47:44,458 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:47:47,458 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:47:50,458 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:47:53,458 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:47:56,458 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:47:59,457 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:48:02,457 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:48:05,458 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:48:08,458 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:55:35,270 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 16:55:35,286 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 16:55:35,407 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:55:38,410 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:55:41,410 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:55:44,411 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:56:56,125 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 16:56:56,141 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 16:56:56,263 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:56:56,263 INFO     message id is:245
+2017-06-22 16:56:59,266 INFO     take step to: ('52.29.91.184', 10458)
+2017-06-22 16:57:02,265 INFO     take step to: ('52.29.91.184', 10458)
+2017-06-22 16:57:05,266 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:57:05,267 INFO     message id is:245
+2017-06-22 16:57:08,266 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:57:08,267 INFO     message id is:245
+2017-06-22 16:57:11,265 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:57:11,267 INFO     message id is:245
+2017-06-22 16:57:14,266 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:57:14,267 INFO     message id is:245
+2017-06-22 16:57:17,266 INFO     take step to: ('52.29.91.184', 10407)
+2017-06-22 16:57:20,266 INFO     take step to: ('52.29.91.184', 10407)
+2017-06-22 16:57:23,265 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 16:57:23,267 INFO     message id is:245
+2017-06-22 21:28:09,910 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 21:28:09,929 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 21:28:10,086 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:28:10,087 INFO     message id is:245
+2017-06-22 21:28:13,089 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:28:13,090 INFO     message id is:245
+2017-06-22 21:28:16,089 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:29:50,797 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 21:29:50,813 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 21:29:50,934 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:29:50,935 INFO     message id is:245
+2017-06-22 21:29:53,937 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:29:53,939 INFO     message id is:245
+2017-06-22 21:34:59,263 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 21:34:59,278 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 21:34:59,398 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:34:59,399 INFO     message id is:245
+2017-06-22 21:35:02,401 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:35:02,402 INFO     message id is:245
+2017-06-22 21:35:05,401 INFO     take step to: ('52.29.91.184', 10407)
+2017-06-22 21:40:56,323 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 21:40:56,338 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 21:40:56,458 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:40:56,459 INFO     message id is:245
+2017-06-22 21:40:59,461 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:40:59,462 INFO     message id is:245
+2017-06-22 21:41:02,461 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:41:02,462 INFO     message id is:245
+2017-06-22 21:41:05,461 INFO     take step to: ('52.29.91.184', 10464)
+2017-06-22 21:41:08,461 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:41:08,465 INFO     message id is:245
+2017-06-22 21:41:11,461 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:41:11,462 INFO     message id is:245
+2017-06-22 21:41:14,461 INFO     take step to: ('52.29.91.184', 10464)
+2017-06-22 21:41:17,461 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:41:17,462 INFO     message id is:245
+2017-06-22 21:41:20,461 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:41:20,462 INFO     message id is:245
+2017-06-22 21:41:23,461 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:41:23,463 INFO     message id is:245
+2017-06-22 21:41:26,461 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:42:58,004 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 21:42:58,019 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 21:42:58,138 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:42:58,139 INFO     message id is:245
+2017-06-22 21:43:01,142 INFO     take step to: ('52.29.91.184', 10458)
+2017-06-22 21:43:04,141 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:43:04,142 INFO     message id is:245
+2017-06-22 21:43:07,141 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:43:07,143 INFO     message id is:245
+2017-06-22 21:43:10,141 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:43:10,145 INFO     message id is:245
+2017-06-22 21:43:13,142 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:43:13,143 INFO     message id is:245
+2017-06-22 21:43:16,141 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:43:16,143 INFO     message id is:245
+2017-06-22 21:43:19,142 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:43:19,143 INFO     message id is:245
+2017-06-22 21:43:22,141 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:43:22,143 INFO     message id is:245
+2017-06-22 21:43:25,142 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:43:25,143 INFO     message id is:245
+2017-06-22 21:43:28,142 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:48:22,232 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 21:48:22,248 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 21:48:22,368 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:48:22,368 INFO     message id is:245
+2017-06-22 21:48:25,371 INFO     take step to: ('52.29.91.184', 10407)
+2017-06-22 21:48:28,370 INFO     take step to: ('52.29.91.184', 10407)
+2017-06-22 21:48:31,371 INFO     take step to: ('52.29.91.184', 10407)
+2017-06-22 21:48:34,371 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:48:34,372 INFO     message id is:245
+2017-06-22 21:48:37,371 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:48:37,372 INFO     message id is:245
+2017-06-22 21:48:40,371 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:48:40,375 INFO     message id is:245
+2017-06-22 21:49:33,303 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 21:49:33,319 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 21:49:33,439 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:49:33,440 INFO     message id is:245
+2017-06-22 21:49:36,442 INFO     take step to: ('52.29.91.184', 10458)
+2017-06-22 21:49:39,442 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:49:39,443 INFO     message id is:245
+2017-06-22 21:49:42,441 INFO     take step to: ('52.29.91.184', 10407)
+2017-06-22 21:50:22,182 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 21:50:22,198 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 21:50:22,318 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:50:22,318 INFO     message id is:245
+2017-06-22 21:50:22,320 INFO     message id is:248
+2017-06-22 21:50:22,369 INFO     public key associated
+2017-06-22 21:50:25,321 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:50:25,322 INFO     message id is:245
+2017-06-22 21:50:25,324 INFO     message id is:248
+2017-06-22 21:50:25,325 INFO     public key associated
+2017-06-22 21:50:28,321 INFO     take step to: ('52.29.91.184', 10407)
+2017-06-22 21:52:29,409 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 21:52:29,425 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 21:52:29,545 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:52:29,688 INFO     message id is:245
+2017-06-22 21:52:29,691 INFO     message id is:248
+2017-06-22 21:52:29,742 INFO     public key associated
+2017-06-22 21:52:32,548 INFO     take step to: ('52.29.91.184', 10458)
+2017-06-22 21:52:35,548 INFO     take step to: ('52.29.91.184', 10458)
+2017-06-22 21:52:38,548 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:52:38,549 INFO     message id is:245
+2017-06-22 21:52:38,551 INFO     message id is:248
+2017-06-22 21:52:38,552 INFO     public key associated
+2017-06-22 21:52:41,547 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:52:41,548 INFO     message id is:245
+2017-06-22 21:52:41,549 INFO     message id is:248
+2017-06-22 21:52:41,549 INFO     public key associated
+2017-06-22 21:52:44,547 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:52:44,548 INFO     message id is:245
+2017-06-22 21:52:44,549 INFO     message id is:248
+2017-06-22 21:52:44,549 INFO     public key associated
+2017-06-22 21:52:47,548 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:52:47,549 INFO     message id is:245
+2017-06-22 21:52:47,551 INFO     message id is:248
+2017-06-22 21:52:47,552 INFO     public key associated
+2017-06-22 21:52:50,548 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:52:50,549 INFO     message id is:245
+2017-06-22 21:52:50,551 INFO     message id is:248
+2017-06-22 21:52:50,552 INFO     public key associated
+2017-06-22 21:52:53,548 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:52:53,552 INFO     message id is:245
+2017-06-22 21:52:53,554 INFO     message id is:248
+2017-06-22 21:52:53,555 INFO     public key associated
+2017-06-22 21:52:56,548 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:52:56,549 INFO     message id is:245
+2017-06-22 21:52:56,551 INFO     message id is:248
+2017-06-22 21:52:56,552 INFO     public key associated
+2017-06-22 21:52:59,548 INFO     take step to: ('52.29.91.184', 10407)
+2017-06-22 21:54:47,138 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 21:54:47,155 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 21:54:47,290 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:54:47,476 INFO     message id is:245
+2017-06-22 21:54:47,478 INFO     message id is:248
+2017-06-22 21:54:47,524 INFO     public key associated
+2017-06-22 21:54:50,293 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:54:50,294 INFO     message id is:245
+2017-06-22 21:54:50,297 INFO     message id is:248
+2017-06-22 21:54:50,297 INFO     public key associated
+2017-06-22 21:54:53,293 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:54:53,294 INFO     message id is:245
+2017-06-22 21:54:53,296 INFO     message id is:248
+2017-06-22 21:54:53,297 INFO     public key associated
+2017-06-22 21:56:24,644 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 21:56:24,660 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 21:56:24,785 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:56:24,979 INFO     message id is:245
+2017-06-22 21:56:24,981 INFO     message id is:248
+2017-06-22 21:56:25,035 INFO     public key associated
+2017-06-22 21:56:27,788 INFO     take step to: ('52.29.91.184', 10407)
+2017-06-22 21:56:30,788 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:56:30,789 INFO     message id is:245
+2017-06-22 21:56:30,791 INFO     message id is:248
+2017-06-22 21:56:30,791 INFO     public key associated
+2017-06-22 21:56:33,787 INFO     take step to: ('52.29.91.184', 10458)
+2017-06-22 21:56:36,788 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:56:36,789 INFO     message id is:245
+2017-06-22 21:56:36,791 INFO     message id is:248
+2017-06-22 21:56:36,792 INFO     public key associated
+2017-06-22 21:58:22,032 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 21:58:22,047 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 21:58:22,173 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:58:22,174 INFO     message id is:245
+2017-06-22 21:58:22,175 INFO     message id is:248
+2017-06-22 21:58:22,175 INFO     public key associated
+2017-06-22 21:58:25,176 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:58:25,178 INFO     message id is:245
+2017-06-22 21:58:25,180 INFO     message id is:248
+2017-06-22 21:58:25,180 INFO     public key associated
+2017-06-22 21:58:28,177 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:58:28,178 INFO     message id is:245
+2017-06-22 21:58:28,180 INFO     message id is:248
+2017-06-22 21:58:28,181 INFO     public key associated
+2017-06-22 21:58:31,177 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:58:31,178 INFO     message id is:245
+2017-06-22 21:58:31,180 INFO     message id is:248
+2017-06-22 21:58:31,181 INFO     public key associated
+2017-06-22 21:58:34,177 INFO     take step to: ('52.29.91.184', 10464)
+2017-06-22 21:58:37,177 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:58:37,178 INFO     message id is:245
+2017-06-22 21:58:37,180 INFO     message id is:248
+2017-06-22 21:58:37,180 INFO     public key associated
+2017-06-22 21:58:40,177 INFO     take step to: ('52.29.91.184', 10458)
+2017-06-22 21:58:43,176 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 21:58:43,178 INFO     message id is:245
+2017-06-22 21:58:43,179 INFO     message id is:248
+2017-06-22 21:58:43,180 INFO     public key associated
+2017-06-22 21:58:46,177 INFO     take step to: ('52.29.91.184', 10458)
+2017-06-22 21:58:49,176 INFO     take step to: ('52.29.91.184', 10464)
+2017-06-22 21:58:52,177 INFO     take step to: ('52.29.91.184', 10407)
+2017-06-22 22:05:42,128 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 22:05:42,144 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 22:05:42,265 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:05:42,266 INFO     message id is:245
+2017-06-22 22:05:42,267 INFO     message id is:248
+2017-06-22 22:05:42,267 INFO     public key associated
+2017-06-22 22:05:45,268 INFO     take step to: ('52.29.91.184', 10464)
+2017-06-22 22:05:48,268 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:05:48,269 INFO     message id is:245
+2017-06-22 22:05:48,271 INFO     message id is:248
+2017-06-22 22:05:48,272 INFO     public key associated
+2017-06-22 22:05:51,268 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:05:51,269 INFO     message id is:245
+2017-06-22 22:05:51,271 INFO     message id is:248
+2017-06-22 22:05:51,272 INFO     public key associated
+2017-06-22 22:05:54,268 INFO     take step to: ('52.29.91.184', 10458)
+2017-06-22 22:09:31,856 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 22:09:31,871 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 22:09:31,992 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:09:31,993 INFO     message id is:245
+2017-06-22 22:09:31,994 INFO     message id is:248
+2017-06-22 22:09:31,994 INFO     public key associated
+2017-06-22 22:09:34,995 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:09:34,997 INFO     message id is:245
+2017-06-22 22:09:34,999 INFO     message id is:248
+2017-06-22 22:09:34,999 INFO     public key associated
+2017-06-22 22:09:37,996 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:09:37,997 INFO     message id is:245
+2017-06-22 22:09:37,999 INFO     message id is:248
+2017-06-22 22:09:37,999 INFO     public key associated
+2017-06-22 22:09:40,995 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:09:40,997 INFO     message id is:245
+2017-06-22 22:09:40,999 INFO     message id is:248
+2017-06-22 22:09:40,999 INFO     public key associated
+2017-06-22 22:09:43,996 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:09:43,997 INFO     message id is:245
+2017-06-22 22:09:43,999 INFO     message id is:248
+2017-06-22 22:09:44,000 INFO     public key associated
+2017-06-22 22:09:46,996 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:09:46,997 INFO     message id is:245
+2017-06-22 22:09:46,999 INFO     message id is:248
+2017-06-22 22:09:46,999 INFO     public key associated
+2017-06-22 22:14:49,533 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 22:14:49,549 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 22:14:49,670 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:14:49,670 INFO     message id is:245
+2017-06-22 22:14:49,671 INFO     message id is:248
+2017-06-22 22:14:49,671 INFO     public key associated
+2017-06-22 22:14:52,672 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:14:52,674 INFO     message id is:245
+2017-06-22 22:14:52,676 INFO     message id is:248
+2017-06-22 22:14:52,676 INFO     public key associated
+2017-06-22 22:14:55,672 INFO     take step to: ('52.29.91.184', 10407)
+2017-06-22 22:14:58,673 INFO     take step to: ('52.29.91.184', 10458)
+2017-06-22 22:15:01,673 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:15:01,675 INFO     message id is:245
+2017-06-22 22:15:01,677 INFO     message id is:248
+2017-06-22 22:15:01,677 INFO     public key associated
+2017-06-22 22:15:04,672 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:17:48,409 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 22:17:48,424 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 22:17:48,544 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:17:48,545 INFO     message id is:245
+2017-06-22 22:17:48,546 INFO     message id is:248
+2017-06-22 22:17:48,546 INFO     public key associated
+2017-06-22 22:17:51,547 INFO     take step to: ('52.29.91.184', 10407)
+2017-06-22 22:17:54,548 INFO     take step to: ('52.29.91.184', 10407)
+2017-06-22 22:17:57,547 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:17:57,549 INFO     message id is:245
+2017-06-22 22:17:57,550 INFO     message id is:248
+2017-06-22 22:17:57,551 INFO     public key associated
+2017-06-22 22:18:00,547 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:18:00,548 INFO     message id is:245
+2017-06-22 22:18:00,550 INFO     message id is:248
+2017-06-22 22:18:00,551 INFO     public key associated
+2017-06-22 22:18:03,547 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:18:03,548 INFO     message id is:245
+2017-06-22 22:18:03,550 INFO     message id is:248
+2017-06-22 22:18:03,550 INFO     public key associated
+2017-06-22 22:18:06,547 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:18:06,549 INFO     message id is:245
+2017-06-22 22:18:06,551 INFO     message id is:248
+2017-06-22 22:18:06,551 INFO     public key associated
+2017-06-22 22:19:43,678 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 22:19:43,694 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 22:19:43,815 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:19:43,816 INFO     message id is:245
+2017-06-22 22:19:43,816 INFO     message id is:248
+2017-06-22 22:19:43,817 INFO     public key associated
+2017-06-22 22:19:46,818 INFO     take step to: ('52.29.91.184', 10407)
+2017-06-22 22:19:49,818 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:19:49,820 INFO     message id is:245
+2017-06-22 22:19:49,822 INFO     message id is:248
+2017-06-22 22:19:49,822 INFO     public key associated
+2017-06-22 22:19:52,817 INFO     take step to: ('52.29.91.184', 10458)
+2017-06-22 22:21:46,884 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 22:21:46,900 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 22:21:47,021 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:21:47,022 INFO     message id is:245
+2017-06-22 22:21:47,023 INFO     message id is:248
+2017-06-22 22:21:47,023 INFO     public key associated
+2017-06-22 22:21:50,024 INFO     take step to: ('52.29.91.184', 10464)
+2017-06-22 22:21:53,025 INFO     take step to: ('52.29.91.184', 10464)
+2017-06-22 22:21:56,024 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:21:56,025 INFO     message id is:245
+2017-06-22 22:21:56,027 INFO     message id is:248
+2017-06-22 22:21:56,028 INFO     public key associated
+2017-06-22 22:21:59,024 INFO     take step to: ('52.29.91.184', 10407)
+2017-06-22 22:22:02,024 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:22:02,026 INFO     message id is:245
+2017-06-22 22:22:02,028 INFO     message id is:248
+2017-06-22 22:22:02,028 INFO     public key associated
+2017-06-22 22:22:05,024 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:22:05,026 INFO     message id is:245
+2017-06-22 22:22:05,028 INFO     message id is:248
+2017-06-22 22:22:05,028 INFO     public key associated
+2017-06-22 22:22:08,025 INFO     take step to: ('52.29.91.184', 10464)
+2017-06-22 22:22:11,024 INFO     take step to: ('52.29.91.184', 10407)
+2017-06-22 22:22:14,024 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:22:14,026 INFO     message id is:245
+2017-06-22 22:22:14,028 INFO     message id is:248
+2017-06-22 22:22:14,028 INFO     public key associated
+2017-06-22 22:22:17,024 INFO     take step to: ('52.29.91.184', 10407)
+2017-06-22 22:32:21,470 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 22:32:21,487 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 22:32:21,621 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:32:21,622 INFO     message id is:245
+2017-06-22 22:32:21,623 INFO     message id is:248
+2017-06-22 22:32:21,623 INFO     public key associated
+2017-06-22 22:32:24,624 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:32:24,625 INFO     message id is:245
+2017-06-22 22:32:24,627 INFO     message id is:248
+2017-06-22 22:32:24,627 INFO     public key associated
+2017-06-22 22:32:27,624 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:32:27,626 INFO     message id is:245
+2017-06-22 22:32:27,627 INFO     message id is:248
+2017-06-22 22:32:27,628 INFO     public key associated
+2017-06-22 22:32:30,624 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:32:30,626 INFO     message id is:245
+2017-06-22 22:32:30,627 INFO     message id is:248
+2017-06-22 22:32:30,628 INFO     public key associated
+2017-06-22 22:32:33,624 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:32:33,625 INFO     message id is:245
+2017-06-22 22:32:33,627 INFO     message id is:248
+2017-06-22 22:32:33,627 INFO     public key associated
+2017-06-22 22:32:36,624 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:32:36,625 INFO     message id is:245
+2017-06-22 22:32:36,627 INFO     message id is:248
+2017-06-22 22:32:36,628 INFO     public key associated
+2017-06-22 22:32:39,624 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:32:39,625 INFO     message id is:245
+2017-06-22 22:32:39,627 INFO     message id is:248
+2017-06-22 22:32:39,628 INFO     public key associated
+2017-06-22 22:32:42,624 INFO     take step to: ('52.29.91.184', 10458)
+2017-06-22 22:32:45,624 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:32:45,626 INFO     message id is:245
+2017-06-22 22:32:45,628 INFO     message id is:248
+2017-06-22 22:32:45,628 INFO     public key associated
+2017-06-22 22:32:48,623 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:32:48,625 INFO     message id is:245
+2017-06-22 22:32:48,626 INFO     message id is:248
+2017-06-22 22:32:48,627 INFO     public key associated
+2017-06-22 22:32:51,624 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:35:02,909 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 22:35:02,925 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 22:35:03,047 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:35:03,048 INFO     message id is:245
+2017-06-22 22:35:03,048 INFO     message id is:248
+2017-06-22 22:35:03,049 INFO     public key associated
+2017-06-22 22:35:06,050 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:35:06,051 INFO     message id is:245
+2017-06-22 22:35:06,053 INFO     message id is:248
+2017-06-22 22:35:06,054 INFO     public key associated
+2017-06-22 22:35:09,050 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:35:09,051 INFO     message id is:245
+2017-06-22 22:35:09,053 INFO     message id is:248
+2017-06-22 22:35:09,054 INFO     public key associated
+2017-06-22 22:35:12,050 INFO     take step to: ('52.29.91.184', 10458)
+2017-06-22 22:35:15,051 INFO     take step to: ('52.29.91.184', 10458)
+2017-06-22 22:35:18,050 INFO     take step to: ('52.29.91.184', 10458)
+2017-06-22 22:35:21,051 INFO     take step to: ('52.29.91.184', 10407)
+2017-06-22 22:35:24,050 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:35:24,052 INFO     message id is:245
+2017-06-22 22:35:24,053 INFO     message id is:248
+2017-06-22 22:35:24,054 INFO     public key associated
+2017-06-22 22:40:45,999 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 22:40:46,015 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 22:40:46,135 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:40:46,136 INFO     message id is:245
+2017-06-22 22:40:46,137 INFO     message id is:248
+2017-06-22 22:40:49,138 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:40:49,140 INFO     message id is:245
+2017-06-22 22:40:49,142 INFO     message id is:248
+2017-06-22 22:40:52,138 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:40:52,139 INFO     message id is:245
+2017-06-22 22:40:52,141 INFO     message id is:248
+2017-06-22 22:40:55,138 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:40:55,139 INFO     message id is:245
+2017-06-22 22:40:55,141 INFO     message id is:248
+2017-06-22 22:40:58,139 INFO     take step to: ('52.29.91.184', 10407)
+2017-06-22 22:42:50,069 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 22:42:50,084 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 22:42:50,206 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:42:50,207 INFO     message id is:245
+2017-06-22 22:42:50,208 INFO     message id is:248
+2017-06-22 22:42:50,209 INFO     message id is:1
+2017-06-22 22:42:50,262 INFO     message id is:1
+2017-06-22 22:42:50,262 INFO     message id is:1
+2017-06-22 22:42:50,329 INFO     message id is:1
+2017-06-22 22:42:53,209 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:42:53,210 INFO     message id is:245
+2017-06-22 22:42:53,213 INFO     message id is:248
+2017-06-22 22:42:56,209 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:42:56,211 INFO     message id is:245
+2017-06-22 22:42:56,213 INFO     message id is:248
+2017-06-22 22:42:56,214 INFO     message id is:1
+2017-06-22 22:42:56,215 INFO     message id is:1
+2017-06-22 22:42:56,215 INFO     message id is:1
+2017-06-22 22:42:59,210 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:42:59,211 INFO     message id is:245
+2017-06-22 22:42:59,213 INFO     message id is:248
+2017-06-22 22:42:59,214 INFO     message id is:1
+2017-06-22 22:42:59,215 INFO     message id is:1
+2017-06-22 22:42:59,215 INFO     message id is:1
+2017-06-22 22:43:02,209 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:43:02,210 INFO     message id is:245
+2017-06-22 22:43:02,212 INFO     message id is:248
+2017-06-22 22:43:02,213 INFO     message id is:1
+2017-06-22 22:43:02,214 INFO     message id is:1
+2017-06-22 22:43:02,215 INFO     message id is:1
+2017-06-22 22:43:05,209 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:43:05,211 INFO     message id is:245
+2017-06-22 22:43:05,213 INFO     message id is:248
+2017-06-22 22:43:05,214 INFO     message id is:1
+2017-06-22 22:43:05,215 INFO     message id is:1
+2017-06-22 22:43:05,215 INFO     message id is:1
+2017-06-22 22:43:08,209 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:43:08,210 INFO     message id is:245
+2017-06-22 22:43:08,212 INFO     message id is:248
+2017-06-22 22:43:08,214 INFO     message id is:1
+2017-06-22 22:43:08,214 INFO     message id is:1
+2017-06-22 22:43:08,215 INFO     message id is:1
+2017-06-22 22:43:11,209 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:43:11,210 INFO     message id is:245
+2017-06-22 22:43:11,212 INFO     message id is:248
+2017-06-22 22:43:11,214 INFO     message id is:1
+2017-06-22 22:43:11,214 INFO     message id is:1
+2017-06-22 22:43:11,215 INFO     message id is:1
+2017-06-22 22:43:14,209 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:43:14,210 INFO     message id is:245
+2017-06-22 22:43:14,212 INFO     message id is:248
+2017-06-22 22:43:14,214 INFO     message id is:1
+2017-06-22 22:43:14,214 INFO     message id is:1
+2017-06-22 22:43:14,215 INFO     message id is:1
+2017-06-22 22:43:17,209 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:43:17,211 INFO     message id is:245
+2017-06-22 22:43:17,213 INFO     message id is:248
+2017-06-22 22:43:17,214 INFO     message id is:1
+2017-06-22 22:43:17,215 INFO     message id is:1
+2017-06-22 22:43:17,215 INFO     message id is:1
+2017-06-22 22:43:20,209 INFO     take step to: ('52.29.91.184', 10458)
+2017-06-22 22:45:38,490 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 22:45:38,506 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 22:45:38,627 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:45:38,792 INFO     message id is:245
+2017-06-22 22:45:38,794 INFO     message id is:248
+2017-06-22 22:45:41,630 INFO     take step to: ('52.29.91.184', 10407)
+2017-06-22 22:45:44,630 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:45:44,631 INFO     message id is:245
+2017-06-22 22:45:44,633 INFO     message id is:248
+2017-06-22 22:45:47,630 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:45:47,632 INFO     message id is:245
+2017-06-22 22:45:47,633 INFO     message id is:248
+2017-06-22 22:45:50,630 INFO     take step to: ('52.29.91.184', 10407)
+2017-06-22 22:45:53,631 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:45:53,632 INFO     message id is:245
+2017-06-22 22:45:53,634 INFO     message id is:248
+2017-06-22 22:45:56,629 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:45:56,631 INFO     message id is:245
+2017-06-22 22:45:56,633 INFO     message id is:248
+2017-06-22 22:45:59,630 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:45:59,631 INFO     message id is:245
+2017-06-22 22:45:59,633 INFO     message id is:248
+2017-06-22 22:46:02,630 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:46:02,631 INFO     message id is:245
+2017-06-22 22:46:02,633 INFO     message id is:248
+2017-06-22 22:46:05,630 INFO     take step to: ('52.29.91.184', 10458)
+2017-06-22 22:46:08,630 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:46:19,059 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 22:46:19,075 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 22:46:19,197 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:46:19,197 INFO     message id is:245
+2017-06-22 22:46:19,198 INFO     message id is:248
+2017-06-22 22:46:22,200 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:46:22,201 INFO     message id is:245
+2017-06-22 22:46:22,203 INFO     message id is:248
+2017-06-22 22:46:25,199 INFO     take step to: ('52.29.91.184', 10407)
+2017-06-22 22:46:28,200 INFO     take step to: ('52.29.91.184', 10407)
+2017-06-22 22:46:31,199 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:46:31,201 INFO     message id is:245
+2017-06-22 22:46:31,202 INFO     message id is:248
+2017-06-22 22:46:34,200 INFO     take step to: ('52.29.91.184', 10464)
+2017-06-22 22:46:37,200 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:46:37,201 INFO     message id is:245
+2017-06-22 22:46:37,203 INFO     message id is:248
+2017-06-22 22:46:40,200 INFO     take step to: ('52.29.91.184', 10464)
+2017-06-22 22:46:43,199 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:46:43,201 INFO     message id is:245
+2017-06-22 22:46:43,202 INFO     message id is:248
+2017-06-22 22:46:46,200 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:46:46,201 INFO     message id is:245
+2017-06-22 22:46:46,203 INFO     message id is:248
+2017-06-22 22:46:49,200 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:48:15,955 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 22:48:15,970 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 22:48:16,092 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:48:16,254 INFO     message id is:245
+2017-06-22 22:48:16,256 INFO     message id is:248
+2017-06-22 22:48:19,095 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:48:19,096 INFO     message id is:245
+2017-06-22 22:48:19,099 INFO     message id is:248
+2017-06-22 22:48:22,095 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:48:22,096 INFO     message id is:245
+2017-06-22 22:48:22,098 INFO     message id is:248
+2017-06-22 22:48:25,096 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:48:25,097 INFO     message id is:245
+2017-06-22 22:48:25,099 INFO     message id is:248
+2017-06-22 22:48:28,096 INFO     take step to: ('52.29.91.184', 10407)
+2017-06-22 22:48:31,095 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:48:31,097 INFO     message id is:245
+2017-06-22 22:48:31,099 INFO     message id is:248
+2017-06-22 22:48:34,095 INFO     take step to: ('52.29.91.184', 10464)
+2017-06-22 22:48:37,095 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:48:37,097 INFO     message id is:245
+2017-06-22 22:48:37,099 INFO     message id is:248
+2017-06-22 22:48:40,095 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:48:40,097 INFO     message id is:245
+2017-06-22 22:48:40,099 INFO     message id is:248
+2017-06-22 22:48:43,095 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:48:43,097 INFO     message id is:245
+2017-06-22 22:48:43,099 INFO     message id is:248
+2017-06-22 22:48:46,095 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:54:19,119 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 22:54:19,134 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 22:54:19,258 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:54:19,258 INFO     message id is:245
+2017-06-22 22:54:19,260 INFO     message id is:248
+2017-06-22 22:54:22,261 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:54:22,262 INFO     message id is:245
+2017-06-22 22:54:22,264 INFO     message id is:248
+2017-06-22 22:54:25,261 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:54:25,262 INFO     message id is:245
+2017-06-22 22:54:25,264 INFO     message id is:248
+2017-06-22 22:54:28,261 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:54:28,263 INFO     message id is:245
+2017-06-22 22:54:28,265 INFO     message id is:248
+2017-06-22 22:54:31,261 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:54:31,262 INFO     message id is:245
+2017-06-22 22:54:31,264 INFO     message id is:248
+2017-06-22 22:54:34,261 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:54:34,262 INFO     message id is:245
+2017-06-22 22:54:34,267 INFO     message id is:248
+2017-06-22 22:54:37,261 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:54:37,262 INFO     message id is:245
+2017-06-22 22:54:37,264 INFO     message id is:248
+2017-06-22 22:54:40,261 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:54:40,263 INFO     message id is:245
+2017-06-22 22:54:40,264 INFO     message id is:248
+2017-06-22 22:54:43,261 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:54:43,262 INFO     message id is:245
+2017-06-22 22:54:43,264 INFO     message id is:248
+2017-06-22 22:54:46,261 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:54:46,262 INFO     message id is:245
+2017-06-22 22:54:46,264 INFO     message id is:248
+2017-06-22 22:54:49,261 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:55:30,825 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 22:55:30,840 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 22:55:30,961 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:55:30,962 INFO     message id is:245
+2017-06-22 22:55:30,962 INFO     message id is:249
+2017-06-22 22:55:30,963 INFO     message id is:248
+2017-06-22 22:55:33,964 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:55:33,965 INFO     message id is:245
+2017-06-22 22:55:33,966 INFO     message id is:249
+2017-06-22 22:55:33,967 INFO     message id is:248
+2017-06-22 22:55:36,964 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:55:36,965 INFO     message id is:245
+2017-06-22 22:55:36,966 INFO     message id is:249
+2017-06-22 22:55:36,967 INFO     message id is:248
+2017-06-22 22:55:39,965 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:55:39,966 INFO     message id is:245
+2017-06-22 22:55:39,967 INFO     message id is:249
+2017-06-22 22:55:39,968 INFO     message id is:248
+2017-06-22 22:55:42,964 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:55:42,966 INFO     message id is:245
+2017-06-22 22:55:42,967 INFO     message id is:249
+2017-06-22 22:55:42,967 INFO     message id is:248
+2017-06-22 22:55:45,964 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:55:45,966 INFO     message id is:245
+2017-06-22 22:55:45,967 INFO     message id is:249
+2017-06-22 22:55:45,967 INFO     message id is:248
+2017-06-22 22:55:48,964 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:55:48,965 INFO     message id is:245
+2017-06-22 22:55:48,966 INFO     message id is:249
+2017-06-22 22:55:48,967 INFO     message id is:248
+2017-06-22 22:55:51,964 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:55:51,966 INFO     message id is:245
+2017-06-22 22:55:51,967 INFO     message id is:249
+2017-06-22 22:55:51,967 INFO     message id is:248
+2017-06-22 22:55:54,964 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:55:54,965 INFO     message id is:245
+2017-06-22 22:55:54,966 INFO     message id is:249
+2017-06-22 22:55:54,967 INFO     message id is:248
+2017-06-22 22:55:57,964 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 22:55:57,965 INFO     message id is:245
+2017-06-22 22:55:57,966 INFO     message id is:249
+2017-06-22 22:55:57,967 INFO     message id is:248
+2017-06-22 22:56:00,965 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 23:08:21,724 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 23:08:21,740 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 23:08:21,860 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 23:08:21,861 INFO     message id is:245
+2017-06-22 23:08:21,862 INFO     message id is:249
+2017-06-22 23:08:21,862 INFO     message id is:248
+2017-06-22 23:08:21,863 INFO     public key associated
+2017-06-22 23:08:21,863 INFO     message id is:1
+2017-06-22 23:08:21,916 INFO     message id is:1
+2017-06-22 23:08:21,916 INFO     message id is:1
+2017-06-22 23:08:21,971 INFO     message id is:1
+2017-06-22 23:08:24,861 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 23:08:24,862 INFO     message id is:245
+2017-06-22 23:08:24,864 INFO     message id is:249
+2017-06-22 23:08:24,864 INFO     message id is:248
+2017-06-22 23:08:24,865 INFO     public key associated
+2017-06-22 23:08:27,863 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 23:08:27,865 INFO     message id is:245
+2017-06-22 23:08:27,867 INFO     message id is:249
+2017-06-22 23:08:27,867 INFO     message id is:248
+2017-06-22 23:08:27,867 INFO     public key associated
+2017-06-22 23:08:30,864 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 23:08:30,865 INFO     message id is:245
+2017-06-22 23:08:30,867 INFO     message id is:249
+2017-06-22 23:08:30,868 INFO     message id is:248
+2017-06-22 23:08:30,868 INFO     public key associated
+2017-06-22 23:08:33,864 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 23:08:33,865 INFO     message id is:245
+2017-06-22 23:08:33,867 INFO     message id is:249
+2017-06-22 23:08:33,867 INFO     message id is:248
+2017-06-22 23:08:33,867 INFO     public key associated
+2017-06-22 23:08:36,864 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 23:08:36,865 INFO     message id is:245
+2017-06-22 23:08:36,867 INFO     message id is:249
+2017-06-22 23:08:36,867 INFO     message id is:248
+2017-06-22 23:08:36,868 INFO     public key associated
+2017-06-22 23:08:39,864 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 23:08:39,865 INFO     message id is:245
+2017-06-22 23:08:39,867 INFO     message id is:249
+2017-06-22 23:08:39,867 INFO     message id is:248
+2017-06-22 23:08:39,868 INFO     public key associated
+2017-06-22 23:08:42,864 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 23:08:42,866 INFO     message id is:245
+2017-06-22 23:08:42,867 INFO     message id is:249
+2017-06-22 23:08:42,867 INFO     message id is:248
+2017-06-22 23:08:42,868 INFO     public key associated
+2017-06-22 23:08:45,864 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 23:08:45,866 INFO     message id is:245
+2017-06-22 23:08:45,867 INFO     message id is:249
+2017-06-22 23:08:45,868 INFO     message id is:248
+2017-06-22 23:08:45,868 INFO     public key associated
+2017-06-22 23:08:48,863 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 23:08:48,865 INFO     message id is:245
+2017-06-22 23:08:48,866 INFO     message id is:249
+2017-06-22 23:08:48,867 INFO     message id is:248
+2017-06-22 23:08:48,867 INFO     public key associated
+2017-06-22 23:08:51,863 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 23:42:44,159 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-22 23:42:44,175 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-22 23:42:44,295 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 23:42:44,469 INFO     message id is:245
+2017-06-22 23:42:44,470 INFO     message id is:249
+2017-06-22 23:42:44,471 INFO     message id is:248
+2017-06-22 23:42:44,521 INFO     public key associated
+2017-06-22 23:42:47,298 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 23:42:47,299 INFO     message id is:245
+2017-06-22 23:42:47,301 INFO     message id is:249
+2017-06-22 23:42:47,302 INFO     message id is:248
+2017-06-22 23:42:47,303 INFO     public key associated
+2017-06-22 23:42:47,303 INFO     message id is:1
+2017-06-22 23:42:47,355 INFO     message id is:1
+2017-06-22 23:42:47,356 INFO     message id is:1
+2017-06-22 23:42:47,422 INFO     message id is:1
+2017-06-22 23:42:50,298 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 23:42:50,299 INFO     message id is:245
+2017-06-22 23:42:50,301 INFO     message id is:249
+2017-06-22 23:42:50,301 INFO     message id is:248
+2017-06-22 23:42:50,301 INFO     public key associated
+2017-06-22 23:42:53,299 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 23:42:53,300 INFO     message id is:245
+2017-06-22 23:42:53,302 INFO     message id is:249
+2017-06-22 23:42:53,302 INFO     message id is:248
+2017-06-22 23:42:53,303 INFO     public key associated
+2017-06-22 23:42:56,298 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 23:42:56,299 INFO     message id is:245
+2017-06-22 23:42:56,301 INFO     message id is:249
+2017-06-22 23:42:56,301 INFO     message id is:248
+2017-06-22 23:42:56,302 INFO     public key associated
+2017-06-22 23:42:59,298 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 23:42:59,299 INFO     message id is:245
+2017-06-22 23:42:59,301 INFO     message id is:249
+2017-06-22 23:42:59,301 INFO     message id is:248
+2017-06-22 23:42:59,302 INFO     public key associated
+2017-06-22 23:43:02,298 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 23:43:02,299 INFO     message id is:245
+2017-06-22 23:43:02,301 INFO     message id is:249
+2017-06-22 23:43:02,301 INFO     message id is:248
+2017-06-22 23:43:02,301 INFO     public key associated
+2017-06-22 23:43:05,299 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 23:43:05,300 INFO     message id is:245
+2017-06-22 23:43:05,302 INFO     message id is:249
+2017-06-22 23:43:05,302 INFO     message id is:248
+2017-06-22 23:43:05,303 INFO     public key associated
+2017-06-22 23:43:08,298 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 23:43:08,299 INFO     message id is:245
+2017-06-22 23:43:08,301 INFO     message id is:249
+2017-06-22 23:43:08,301 INFO     message id is:248
+2017-06-22 23:43:08,302 INFO     public key associated
+2017-06-22 23:43:11,298 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-22 23:43:11,299 INFO     message id is:245
+2017-06-22 23:43:11,301 INFO     message id is:249
+2017-06-22 23:43:11,301 INFO     message id is:248
+2017-06-22 23:43:11,302 INFO     public key associated
+2017-06-23 00:02:17,228 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-23 00:02:17,244 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-23 00:02:17,365 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-23 00:02:17,366 INFO     message id is:245
+2017-06-23 00:02:17,366 INFO     message id is:249
+2017-06-23 00:02:17,366 INFO     message id is:248
+2017-06-23 00:02:17,366 INFO     public key associated
+2017-06-23 00:02:17,367 INFO     message id is:1
+2017-06-23 00:02:17,367 INFO     message id is:1
+2017-06-23 00:02:17,367 INFO     message id is:1
+2017-06-23 00:02:17,367 INFO     message id is:1
+2017-06-23 00:02:20,368 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-23 00:02:20,369 INFO     message id is:245
+2017-06-23 00:02:20,371 INFO     message id is:249
+2017-06-23 00:02:20,371 INFO     message id is:248
+2017-06-23 00:02:20,372 INFO     public key associated
+2017-06-23 00:02:23,368 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-23 00:02:23,369 INFO     message id is:245
+2017-06-23 00:02:23,371 INFO     message id is:249
+2017-06-23 00:02:23,371 INFO     message id is:248
+2017-06-23 00:02:23,372 INFO     public key associated
+2017-06-23 00:02:23,373 INFO     message id is:1
+2017-06-23 00:02:23,373 INFO     message id is:1
+2017-06-23 00:02:23,374 INFO     message id is:1
+2017-06-23 00:02:26,368 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-23 00:02:26,369 INFO     message id is:245
+2017-06-23 00:02:26,371 INFO     message id is:249
+2017-06-23 00:02:26,371 INFO     message id is:248
+2017-06-23 00:02:26,372 INFO     public key associated
+2017-06-23 00:02:26,373 INFO     message id is:1
+2017-06-23 00:02:26,373 INFO     message id is:1
+2017-06-23 00:02:26,374 INFO     message id is:1
+2017-06-23 00:02:29,368 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-23 00:02:29,369 INFO     message id is:245
+2017-06-23 00:02:29,371 INFO     message id is:249
+2017-06-23 00:02:29,371 INFO     message id is:248
+2017-06-23 00:02:29,372 INFO     public key associated
+2017-06-23 00:02:29,373 INFO     message id is:1
+2017-06-23 00:02:29,373 INFO     message id is:1
+2017-06-23 00:02:29,374 INFO     message id is:1
+2017-06-23 00:02:32,368 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-23 00:02:32,369 INFO     message id is:245
+2017-06-23 00:02:32,371 INFO     message id is:249
+2017-06-23 00:02:32,371 INFO     message id is:248
+2017-06-23 00:02:32,372 INFO     public key associated
+2017-06-23 00:02:32,373 INFO     message id is:1
+2017-06-23 00:02:32,374 INFO     message id is:1
+2017-06-23 00:02:32,374 INFO     message id is:1
+2017-06-23 00:02:35,368 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-23 00:02:35,370 INFO     message id is:245
+2017-06-23 00:02:35,372 INFO     message id is:249
+2017-06-23 00:02:35,372 INFO     message id is:248
+2017-06-23 00:02:35,372 INFO     public key associated
+2017-06-23 00:02:35,373 INFO     message id is:1
+2017-06-23 00:02:35,374 INFO     message id is:1
+2017-06-23 00:02:35,374 INFO     message id is:1
+2017-06-23 00:02:38,368 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-23 00:02:38,369 INFO     message id is:245
+2017-06-23 00:02:38,371 INFO     message id is:249
+2017-06-23 00:02:38,371 INFO     message id is:248
+2017-06-23 00:02:38,371 INFO     public key associated
+2017-06-23 00:02:38,372 INFO     message id is:1
+2017-06-23 00:02:38,373 INFO     message id is:1
+2017-06-23 00:02:38,373 INFO     message id is:1
+2017-06-23 00:02:41,365 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-23 00:02:41,367 INFO     message id is:245
+2017-06-23 00:02:41,368 INFO     message id is:249
+2017-06-23 00:02:41,368 INFO     message id is:248
+2017-06-23 00:02:41,369 INFO     public key associated
+2017-06-23 00:02:41,370 INFO     message id is:1
+2017-06-23 00:02:41,370 INFO     message id is:1
+2017-06-23 00:02:41,371 INFO     message id is:1
+2017-06-23 00:02:44,368 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-23 00:02:44,369 INFO     message id is:245
+2017-06-23 00:02:44,370 INFO     message id is:249
+2017-06-23 00:02:44,370 INFO     message id is:248
+2017-06-23 00:02:44,371 INFO     public key associated
+2017-06-23 00:02:44,372 INFO     message id is:1
+2017-06-23 00:02:44,372 INFO     message id is:1
+2017-06-23 00:02:44,373 INFO     message id is:1
+2017-06-23 00:02:47,368 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-23 00:02:47,369 INFO     message id is:245
+2017-06-23 00:02:47,371 INFO     message id is:249
+2017-06-23 00:02:47,372 INFO     message id is:248
+2017-06-23 00:02:47,372 INFO     public key associated
+2017-06-23 00:02:47,373 INFO     message id is:1
+2017-06-23 00:02:47,373 INFO     message id is:1
+2017-06-23 00:02:47,374 INFO     message id is:1
+2017-06-23 00:02:50,367 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-23 00:02:50,369 INFO     message id is:245
+2017-06-23 00:02:50,370 INFO     message id is:249
+2017-06-23 00:02:50,371 INFO     message id is:248
+2017-06-23 00:02:50,371 INFO     public key associated
+2017-06-23 00:02:50,372 INFO     message id is:1
+2017-06-23 00:02:50,373 INFO     message id is:1
+2017-06-23 00:02:50,373 INFO     message id is:1
+2017-06-23 00:02:53,365 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-23 00:02:53,367 INFO     message id is:245
+2017-06-23 00:02:53,369 INFO     message id is:249
+2017-06-23 00:02:53,369 INFO     message id is:248
+2017-06-23 00:02:53,370 INFO     public key associated
+2017-06-23 00:02:53,371 INFO     message id is:1
+2017-06-23 00:02:53,371 INFO     message id is:1
+2017-06-23 00:02:53,372 INFO     message id is:1
+2017-06-23 00:02:56,368 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-23 00:02:56,370 INFO     message id is:245
+2017-06-23 00:02:56,372 INFO     message id is:249
+2017-06-23 00:02:56,372 INFO     message id is:248
+2017-06-23 00:02:56,373 INFO     public key associated
+2017-06-23 00:02:56,373 INFO     message id is:1
+2017-06-23 00:02:56,374 INFO     message id is:1
+2017-06-23 00:02:56,374 INFO     message id is:1
+2017-06-23 00:02:59,368 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-23 00:02:59,369 INFO     message id is:245
+2017-06-23 00:02:59,371 INFO     message id is:249
+2017-06-23 00:02:59,371 INFO     message id is:248
+2017-06-23 00:02:59,371 INFO     public key associated
+2017-06-23 00:02:59,372 INFO     message id is:1
+2017-06-23 00:02:59,373 INFO     message id is:1
+2017-06-23 00:02:59,373 INFO     message id is:1
+2017-06-23 00:03:02,368 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-23 00:03:02,369 INFO     message id is:245
+2017-06-23 00:03:02,371 INFO     message id is:249
+2017-06-23 00:03:02,371 INFO     message id is:248
+2017-06-23 00:03:02,371 INFO     public key associated
+2017-06-23 00:03:02,372 INFO     message id is:1
+2017-06-23 00:03:02,373 INFO     message id is:1
+2017-06-23 00:03:02,373 INFO     message id is:1
+2017-06-23 00:03:05,368 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-23 00:03:05,370 INFO     message id is:245
+2017-06-23 00:03:05,371 INFO     message id is:249
+2017-06-23 00:03:05,371 INFO     message id is:248
+2017-06-23 00:03:05,372 INFO     public key associated
+2017-06-23 00:03:05,373 INFO     message id is:1
+2017-06-23 00:03:05,374 INFO     message id is:1
+2017-06-23 00:03:05,374 INFO     message id is:1
+2017-06-23 00:03:08,368 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-23 00:03:08,370 INFO     message id is:245
+2017-06-23 00:03:08,371 INFO     message id is:249
+2017-06-23 00:03:08,372 INFO     message id is:248
+2017-06-23 00:03:08,372 INFO     public key associated
+2017-06-23 00:03:08,373 INFO     message id is:1
+2017-06-23 00:03:08,374 INFO     message id is:1
+2017-06-23 00:03:08,374 INFO     message id is:1
+2017-06-23 00:03:11,368 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-23 00:03:11,369 INFO     message id is:245
+2017-06-23 00:03:11,371 INFO     message id is:249
+2017-06-23 00:03:11,371 INFO     message id is:248
+2017-06-23 00:03:11,371 INFO     public key associated
+2017-06-23 00:03:11,373 INFO     message id is:1
+2017-06-23 00:03:11,373 INFO     message id is:1
+2017-06-23 00:03:11,374 INFO     message id is:1
+2017-06-23 00:03:14,368 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-23 00:03:14,369 INFO     message id is:245
+2017-06-23 00:03:14,371 INFO     message id is:249
+2017-06-23 00:03:14,371 INFO     message id is:248
+2017-06-23 00:03:14,372 INFO     public key associated
+2017-06-23 00:03:14,373 INFO     message id is:1
+2017-06-23 00:03:14,373 INFO     message id is:1
+2017-06-23 00:03:14,374 INFO     message id is:1
+2017-06-23 00:03:17,368 INFO     take step to: ('127.0.0.1', 10600)
+2017-06-23 00:28:31,299 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-23 00:28:31,315 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-23 00:28:31,443 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:28:31,612 INFO     message id is:245
+2017-06-23 00:28:31,613 INFO     message id is:249
+2017-06-23 00:28:31,614 INFO     message id is:248
+2017-06-23 00:28:31,664 INFO     public key associated
+2017-06-23 00:28:34,446 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:28:34,447 INFO     message id is:245
+2017-06-23 00:28:34,449 INFO     message id is:249
+2017-06-23 00:28:34,450 INFO     message id is:248
+2017-06-23 00:28:34,450 INFO     public key associated
+2017-06-23 00:28:34,452 INFO     message id is:1
+2017-06-23 00:28:34,520 INFO     message id is:1
+2017-06-23 00:28:34,521 INFO     message id is:1
+2017-06-23 00:28:34,587 INFO     message id is:1
+2017-06-23 00:28:34,653 INFO     message id is:1
+2017-06-23 00:28:37,446 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:28:37,447 INFO     message id is:245
+2017-06-23 00:28:37,449 INFO     message id is:249
+2017-06-23 00:28:37,449 INFO     message id is:248
+2017-06-23 00:28:37,450 INFO     public key associated
+2017-06-23 00:28:40,446 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:28:40,447 INFO     message id is:245
+2017-06-23 00:28:40,449 INFO     message id is:249
+2017-06-23 00:28:40,449 INFO     message id is:248
+2017-06-23 00:28:40,450 INFO     public key associated
+2017-06-23 00:28:40,451 INFO     message id is:1
+2017-06-23 00:28:40,452 INFO     message id is:1
+2017-06-23 00:28:40,453 INFO     message id is:1
+2017-06-23 00:28:40,453 INFO     message id is:1
+2017-06-23 00:28:43,447 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:28:43,448 INFO     message id is:245
+2017-06-23 00:28:43,450 INFO     message id is:249
+2017-06-23 00:28:43,450 INFO     message id is:248
+2017-06-23 00:28:43,451 INFO     public key associated
+2017-06-23 00:28:43,452 INFO     message id is:1
+2017-06-23 00:28:43,452 INFO     message id is:1
+2017-06-23 00:28:43,453 INFO     message id is:1
+2017-06-23 00:28:43,453 INFO     message id is:1
+2017-06-23 00:28:46,446 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:28:46,447 INFO     message id is:245
+2017-06-23 00:28:46,449 INFO     message id is:249
+2017-06-23 00:28:46,450 INFO     message id is:248
+2017-06-23 00:28:46,450 INFO     public key associated
+2017-06-23 00:28:46,451 INFO     message id is:1
+2017-06-23 00:28:46,452 INFO     message id is:1
+2017-06-23 00:28:46,452 INFO     message id is:1
+2017-06-23 00:28:46,453 INFO     message id is:1
+2017-06-23 00:28:49,446 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:28:49,448 INFO     message id is:245
+2017-06-23 00:28:49,449 INFO     message id is:249
+2017-06-23 00:28:49,450 INFO     message id is:248
+2017-06-23 00:28:49,450 INFO     public key associated
+2017-06-23 00:28:49,451 INFO     message id is:1
+2017-06-23 00:28:49,452 INFO     message id is:1
+2017-06-23 00:28:49,452 INFO     message id is:1
+2017-06-23 00:28:49,453 INFO     message id is:1
+2017-06-23 00:28:52,446 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:28:52,448 INFO     message id is:245
+2017-06-23 00:28:52,449 INFO     message id is:249
+2017-06-23 00:28:52,450 INFO     message id is:248
+2017-06-23 00:28:52,450 INFO     public key associated
+2017-06-23 00:28:52,451 INFO     message id is:1
+2017-06-23 00:28:52,452 INFO     message id is:1
+2017-06-23 00:28:52,452 INFO     message id is:1
+2017-06-23 00:28:52,453 INFO     message id is:1
+2017-06-23 00:28:55,446 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:28:55,447 INFO     message id is:245
+2017-06-23 00:28:55,449 INFO     message id is:249
+2017-06-23 00:28:55,449 INFO     message id is:248
+2017-06-23 00:28:55,450 INFO     public key associated
+2017-06-23 00:28:55,451 INFO     message id is:1
+2017-06-23 00:28:55,451 INFO     message id is:1
+2017-06-23 00:28:55,452 INFO     message id is:1
+2017-06-23 00:28:55,452 INFO     message id is:1
+2017-06-23 00:28:58,446 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:28:58,447 INFO     message id is:245
+2017-06-23 00:28:58,448 INFO     message id is:249
+2017-06-23 00:28:58,449 INFO     message id is:248
+2017-06-23 00:28:58,449 INFO     public key associated
+2017-06-23 00:28:58,450 INFO     message id is:1
+2017-06-23 00:28:58,450 INFO     message id is:1
+2017-06-23 00:28:58,451 INFO     message id is:1
+2017-06-23 00:28:58,451 INFO     message id is:1
+2017-06-23 00:31:00,858 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-23 00:31:00,874 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-23 00:31:00,994 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:31:00,995 INFO     message id is:245
+2017-06-23 00:31:00,996 INFO     message id is:249
+2017-06-23 00:31:00,996 INFO     message id is:248
+2017-06-23 00:31:00,996 INFO     public key associated
+2017-06-23 00:31:00,996 INFO     message id is:1
+2017-06-23 00:31:00,997 INFO     message id is:1
+2017-06-23 00:31:00,997 INFO     message id is:1
+2017-06-23 00:31:00,997 INFO     message id is:1
+2017-06-23 00:31:00,997 INFO     message id is:1
+2017-06-23 00:31:03,996 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:31:03,998 INFO     message id is:245
+2017-06-23 00:31:03,999 INFO     message id is:249
+2017-06-23 00:31:04,000 INFO     message id is:248
+2017-06-23 00:31:04,000 INFO     public key associated
+2017-06-23 00:31:06,997 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:31:06,998 INFO     message id is:245
+2017-06-23 00:31:06,999 INFO     message id is:249
+2017-06-23 00:31:07,000 INFO     message id is:248
+2017-06-23 00:31:07,000 INFO     public key associated
+2017-06-23 00:31:07,002 INFO     message id is:1
+2017-06-23 00:31:07,002 INFO     message id is:1
+2017-06-23 00:31:07,003 INFO     message id is:1
+2017-06-23 00:31:07,003 INFO     message id is:1
+2017-06-23 00:31:09,997 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:31:09,999 INFO     message id is:245
+2017-06-23 00:31:10,000 INFO     message id is:249
+2017-06-23 00:31:10,001 INFO     message id is:248
+2017-06-23 00:31:10,001 INFO     public key associated
+2017-06-23 00:31:10,002 INFO     message id is:1
+2017-06-23 00:31:10,003 INFO     message id is:1
+2017-06-23 00:31:10,003 INFO     message id is:1
+2017-06-23 00:31:10,004 INFO     message id is:1
+2017-06-23 00:31:12,995 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:31:12,996 INFO     message id is:245
+2017-06-23 00:31:12,999 INFO     message id is:249
+2017-06-23 00:31:12,999 INFO     message id is:248
+2017-06-23 00:31:13,000 INFO     public key associated
+2017-06-23 00:31:13,001 INFO     message id is:1
+2017-06-23 00:31:13,001 INFO     message id is:1
+2017-06-23 00:31:13,002 INFO     message id is:1
+2017-06-23 00:31:13,002 INFO     message id is:1
+2017-06-23 00:31:41,286 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-23 00:31:41,307 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-23 00:31:41,466 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:31:41,467 INFO     message id is:245
+2017-06-23 00:31:41,468 INFO     message id is:249
+2017-06-23 00:31:41,468 INFO     message id is:248
+2017-06-23 00:31:41,468 INFO     public key associated
+2017-06-23 00:31:41,469 INFO     message id is:1
+2017-06-23 00:31:41,469 INFO     message id is:1
+2017-06-23 00:31:41,469 INFO     message id is:1
+2017-06-23 00:31:41,469 INFO     message id is:1
+2017-06-23 00:31:41,469 INFO     message id is:1
+2017-06-23 00:31:44,469 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:31:44,470 INFO     message id is:245
+2017-06-23 00:31:44,470 INFO     message id is:249
+2017-06-23 00:31:44,470 INFO     message id is:248
+2017-06-23 00:31:44,471 INFO     public key associated
+2017-06-23 00:31:47,470 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:31:47,471 INFO     message id is:245
+2017-06-23 00:31:47,473 INFO     message id is:249
+2017-06-23 00:31:47,473 INFO     message id is:248
+2017-06-23 00:31:47,474 INFO     public key associated
+2017-06-23 00:31:47,475 INFO     message id is:1
+2017-06-23 00:31:47,476 INFO     message id is:1
+2017-06-23 00:31:47,477 INFO     message id is:1
+2017-06-23 00:31:47,477 INFO     message id is:1
+2017-06-23 00:31:50,469 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:31:50,470 INFO     message id is:245
+2017-06-23 00:31:50,471 INFO     message id is:249
+2017-06-23 00:31:50,471 INFO     message id is:248
+2017-06-23 00:31:50,471 INFO     public key associated
+2017-06-23 00:31:50,472 INFO     message id is:1
+2017-06-23 00:31:50,472 INFO     message id is:1
+2017-06-23 00:31:50,472 INFO     message id is:1
+2017-06-23 00:31:50,472 INFO     message id is:1
+2017-06-23 00:31:53,469 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:31:53,470 INFO     message id is:245
+2017-06-23 00:31:53,471 INFO     message id is:249
+2017-06-23 00:31:53,471 INFO     message id is:248
+2017-06-23 00:31:53,471 INFO     public key associated
+2017-06-23 00:31:53,472 INFO     message id is:1
+2017-06-23 00:31:53,472 INFO     message id is:1
+2017-06-23 00:31:53,472 INFO     message id is:1
+2017-06-23 00:31:53,472 INFO     message id is:1
+2017-06-23 00:31:56,469 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:31:56,471 INFO     message id is:245
+2017-06-23 00:31:56,472 INFO     message id is:249
+2017-06-23 00:31:56,473 INFO     message id is:248
+2017-06-23 00:31:56,473 INFO     public key associated
+2017-06-23 00:31:56,474 INFO     message id is:1
+2017-06-23 00:31:56,475 INFO     message id is:1
+2017-06-23 00:31:56,475 INFO     message id is:1
+2017-06-23 00:31:56,475 INFO     message id is:1
+2017-06-23 00:31:59,469 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:31:59,470 INFO     message id is:245
+2017-06-23 00:31:59,470 INFO     message id is:249
+2017-06-23 00:31:59,470 INFO     message id is:248
+2017-06-23 00:31:59,471 INFO     public key associated
+2017-06-23 00:31:59,472 INFO     message id is:1
+2017-06-23 00:31:59,472 INFO     message id is:1
+2017-06-23 00:31:59,472 INFO     message id is:1
+2017-06-23 00:31:59,472 INFO     message id is:1
+2017-06-23 00:32:02,468 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:32:02,469 INFO     message id is:245
+2017-06-23 00:32:02,470 INFO     message id is:249
+2017-06-23 00:32:02,470 INFO     message id is:248
+2017-06-23 00:32:02,470 INFO     public key associated
+2017-06-23 00:32:02,471 INFO     message id is:1
+2017-06-23 00:32:02,471 INFO     message id is:1
+2017-06-23 00:32:02,471 INFO     message id is:1
+2017-06-23 00:32:02,471 INFO     message id is:1
+2017-06-23 00:32:05,469 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:32:05,471 INFO     message id is:245
+2017-06-23 00:32:05,473 INFO     message id is:249
+2017-06-23 00:32:05,473 INFO     message id is:248
+2017-06-23 00:32:05,474 INFO     public key associated
+2017-06-23 00:32:05,475 INFO     message id is:1
+2017-06-23 00:32:05,475 INFO     message id is:1
+2017-06-23 00:32:05,476 INFO     message id is:1
+2017-06-23 00:32:05,476 INFO     message id is:1
+2017-06-23 00:32:08,469 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:32:08,469 INFO     message id is:245
+2017-06-23 00:32:08,470 INFO     message id is:249
+2017-06-23 00:32:08,470 INFO     message id is:248
+2017-06-23 00:32:08,470 INFO     public key associated
+2017-06-23 00:32:08,471 INFO     message id is:1
+2017-06-23 00:32:08,472 INFO     message id is:1
+2017-06-23 00:32:08,472 INFO     message id is:1
+2017-06-23 00:32:08,472 INFO     message id is:1
+2017-06-23 00:32:11,466 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:32:11,467 INFO     message id is:245
+2017-06-23 00:32:11,468 INFO     message id is:249
+2017-06-23 00:32:11,468 INFO     message id is:248
+2017-06-23 00:32:11,468 INFO     public key associated
+2017-06-23 00:32:11,469 INFO     message id is:1
+2017-06-23 00:32:11,469 INFO     message id is:1
+2017-06-23 00:32:11,469 INFO     message id is:1
+2017-06-23 00:32:11,470 INFO     message id is:1
+2017-06-23 00:32:14,469 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:32:14,471 INFO     message id is:245
+2017-06-23 00:32:14,473 INFO     message id is:249
+2017-06-23 00:32:14,473 INFO     message id is:248
+2017-06-23 00:32:14,474 INFO     public key associated
+2017-06-23 00:32:14,475 INFO     message id is:1
+2017-06-23 00:32:14,475 INFO     message id is:1
+2017-06-23 00:32:14,476 INFO     message id is:1
+2017-06-23 00:32:14,477 INFO     message id is:1
+2017-06-23 00:32:17,468 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:32:17,469 INFO     message id is:245
+2017-06-23 00:32:17,469 INFO     message id is:249
+2017-06-23 00:32:17,470 INFO     message id is:248
+2017-06-23 00:32:17,470 INFO     public key associated
+2017-06-23 00:32:17,470 INFO     message id is:1
+2017-06-23 00:32:17,470 INFO     message id is:1
+2017-06-23 00:32:17,471 INFO     message id is:1
+2017-06-23 00:32:17,471 INFO     message id is:1
+2017-06-23 00:41:30,735 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-23 00:41:30,751 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-23 00:41:30,874 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:41:30,875 INFO     message id is:245
+2017-06-23 00:41:30,875 INFO     message id is:249
+2017-06-23 00:41:30,876 INFO     message id is:248
+2017-06-23 00:41:30,876 INFO     public key associated
+2017-06-23 00:41:30,876 INFO     message id is:1
+2017-06-23 00:41:30,876 INFO     message id is:1
+2017-06-23 00:41:30,877 INFO     message id is:1
+2017-06-23 00:41:30,877 INFO     message id is:1
+2017-06-23 00:41:30,877 INFO     message id is:1
+2017-06-23 00:41:33,877 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:41:33,878 INFO     message id is:245
+2017-06-23 00:41:33,880 INFO     message id is:249
+2017-06-23 00:41:33,881 INFO     message id is:248
+2017-06-23 00:41:33,881 INFO     public key associated
+2017-06-23 00:41:36,877 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:41:36,878 INFO     message id is:245
+2017-06-23 00:41:36,880 INFO     message id is:249
+2017-06-23 00:41:36,880 INFO     message id is:248
+2017-06-23 00:41:36,881 INFO     public key associated
+2017-06-23 00:41:36,881 INFO     message id is:1
+2017-06-23 00:41:36,882 INFO     message id is:1
+2017-06-23 00:41:36,882 INFO     message id is:1
+2017-06-23 00:41:36,883 INFO     message id is:1
+2017-06-23 00:41:39,877 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:41:39,879 INFO     message id is:245
+2017-06-23 00:41:39,881 INFO     message id is:249
+2017-06-23 00:41:39,881 INFO     message id is:248
+2017-06-23 00:41:39,881 INFO     public key associated
+2017-06-23 00:41:39,883 INFO     message id is:1
+2017-06-23 00:41:39,883 INFO     message id is:1
+2017-06-23 00:41:39,884 INFO     message id is:1
+2017-06-23 00:41:39,884 INFO     message id is:1
+2017-06-23 00:41:42,877 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:41:42,878 INFO     message id is:245
+2017-06-23 00:41:42,880 INFO     message id is:249
+2017-06-23 00:41:42,880 INFO     message id is:248
+2017-06-23 00:41:42,881 INFO     public key associated
+2017-06-23 00:41:42,882 INFO     message id is:1
+2017-06-23 00:41:42,882 INFO     message id is:1
+2017-06-23 00:41:42,883 INFO     message id is:1
+2017-06-23 00:41:42,883 INFO     message id is:1
+2017-06-23 00:41:45,877 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:41:45,878 INFO     message id is:245
+2017-06-23 00:41:45,880 INFO     message id is:249
+2017-06-23 00:41:45,880 INFO     message id is:248
+2017-06-23 00:41:45,881 INFO     public key associated
+2017-06-23 00:41:45,882 INFO     message id is:1
+2017-06-23 00:41:45,882 INFO     message id is:1
+2017-06-23 00:41:45,883 INFO     message id is:1
+2017-06-23 00:41:45,883 INFO     message id is:1
+2017-06-23 00:41:48,877 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:41:48,878 INFO     message id is:245
+2017-06-23 00:41:48,880 INFO     message id is:249
+2017-06-23 00:41:48,880 INFO     message id is:248
+2017-06-23 00:41:48,880 INFO     public key associated
+2017-06-23 00:41:48,882 INFO     message id is:1
+2017-06-23 00:41:48,882 INFO     message id is:1
+2017-06-23 00:41:48,883 INFO     message id is:1
+2017-06-23 00:41:48,883 INFO     message id is:1
+2017-06-23 00:41:51,877 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:41:51,879 INFO     message id is:245
+2017-06-23 00:41:51,881 INFO     message id is:249
+2017-06-23 00:41:51,881 INFO     message id is:248
+2017-06-23 00:41:51,881 INFO     public key associated
+2017-06-23 00:41:51,882 INFO     message id is:1
+2017-06-23 00:41:51,883 INFO     message id is:1
+2017-06-23 00:41:51,883 INFO     message id is:1
+2017-06-23 00:41:51,884 INFO     message id is:1
+2017-06-23 00:41:54,877 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:41:54,879 INFO     message id is:245
+2017-06-23 00:41:54,880 INFO     message id is:249
+2017-06-23 00:41:54,881 INFO     message id is:248
+2017-06-23 00:41:54,881 INFO     public key associated
+2017-06-23 00:41:54,882 INFO     message id is:1
+2017-06-23 00:41:54,883 INFO     message id is:1
+2017-06-23 00:41:54,883 INFO     message id is:1
+2017-06-23 00:41:54,884 INFO     message id is:1
+2017-06-23 00:41:57,877 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:41:57,878 INFO     message id is:245
+2017-06-23 00:41:57,880 INFO     message id is:249
+2017-06-23 00:41:57,880 INFO     message id is:248
+2017-06-23 00:41:57,881 INFO     public key associated
+2017-06-23 00:41:57,882 INFO     message id is:1
+2017-06-23 00:41:57,882 INFO     message id is:1
+2017-06-23 00:41:57,883 INFO     message id is:1
+2017-06-23 00:41:57,883 INFO     message id is:1
+2017-06-23 00:42:00,877 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:42:00,878 INFO     message id is:245
+2017-06-23 00:42:00,880 INFO     message id is:249
+2017-06-23 00:42:00,880 INFO     message id is:248
+2017-06-23 00:42:00,880 INFO     public key associated
+2017-06-23 00:42:00,882 INFO     message id is:1
+2017-06-23 00:42:00,882 INFO     message id is:1
+2017-06-23 00:42:00,883 INFO     message id is:1
+2017-06-23 00:42:00,883 INFO     message id is:1
+2017-06-23 00:42:03,876 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:42:03,878 INFO     message id is:245
+2017-06-23 00:42:03,879 INFO     message id is:249
+2017-06-23 00:42:03,880 INFO     message id is:248
+2017-06-23 00:42:03,880 INFO     public key associated
+2017-06-23 00:42:03,881 INFO     message id is:1
+2017-06-23 00:42:03,882 INFO     message id is:1
+2017-06-23 00:42:03,882 INFO     message id is:1
+2017-06-23 00:42:03,883 INFO     message id is:1
+2017-06-23 00:42:06,877 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:42:06,878 INFO     message id is:245
+2017-06-23 00:42:06,880 INFO     message id is:249
+2017-06-23 00:42:06,880 INFO     message id is:248
+2017-06-23 00:42:06,881 INFO     public key associated
+2017-06-23 00:42:06,882 INFO     message id is:1
+2017-06-23 00:42:06,882 INFO     message id is:1
+2017-06-23 00:42:06,883 INFO     message id is:1
+2017-06-23 00:42:06,883 INFO     message id is:1
+2017-06-23 00:42:09,876 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:42:09,878 INFO     message id is:245
+2017-06-23 00:42:09,879 INFO     message id is:249
+2017-06-23 00:42:09,880 INFO     message id is:248
+2017-06-23 00:42:09,880 INFO     public key associated
+2017-06-23 00:42:09,881 INFO     message id is:1
+2017-06-23 00:42:09,882 INFO     message id is:1
+2017-06-23 00:42:09,882 INFO     message id is:1
+2017-06-23 00:42:09,883 INFO     message id is:1
+2017-06-23 00:42:12,877 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:42:12,878 INFO     message id is:245
+2017-06-23 00:42:12,880 INFO     message id is:249
+2017-06-23 00:42:12,880 INFO     message id is:248
+2017-06-23 00:42:12,881 INFO     public key associated
+2017-06-23 00:42:12,882 INFO     message id is:1
+2017-06-23 00:42:12,883 INFO     message id is:1
+2017-06-23 00:42:12,883 INFO     message id is:1
+2017-06-23 00:42:12,883 INFO     message id is:1
+2017-06-23 00:42:15,876 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:42:15,877 INFO     message id is:245
+2017-06-23 00:42:15,878 INFO     message id is:249
+2017-06-23 00:42:15,878 INFO     message id is:248
+2017-06-23 00:42:15,878 INFO     public key associated
+2017-06-23 00:42:15,879 INFO     message id is:1
+2017-06-23 00:42:15,879 INFO     message id is:1
+2017-06-23 00:42:15,879 INFO     message id is:1
+2017-06-23 00:42:15,879 INFO     message id is:1
+2017-06-23 00:42:18,877 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:42:18,879 INFO     message id is:245
+2017-06-23 00:42:18,880 INFO     message id is:249
+2017-06-23 00:42:18,881 INFO     message id is:248
+2017-06-23 00:42:18,881 INFO     public key associated
+2017-06-23 00:42:18,884 INFO     message id is:1
+2017-06-23 00:42:18,884 INFO     message id is:1
+2017-06-23 00:42:18,885 INFO     message id is:1
+2017-06-23 00:42:18,885 INFO     message id is:1
+2017-06-23 00:42:21,877 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:42:21,878 INFO     message id is:245
+2017-06-23 00:42:21,880 INFO     message id is:249
+2017-06-23 00:42:21,880 INFO     message id is:248
+2017-06-23 00:42:21,881 INFO     public key associated
+2017-06-23 00:42:21,882 INFO     message id is:1
+2017-06-23 00:42:21,882 INFO     message id is:1
+2017-06-23 00:42:21,883 INFO     message id is:1
+2017-06-23 00:42:21,883 INFO     message id is:1
+2017-06-23 00:42:24,874 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:42:24,875 INFO     message id is:245
+2017-06-23 00:42:24,877 INFO     message id is:249
+2017-06-23 00:42:24,877 INFO     message id is:248
+2017-06-23 00:42:24,878 INFO     public key associated
+2017-06-23 00:42:24,879 INFO     message id is:1
+2017-06-23 00:42:24,879 INFO     message id is:1
+2017-06-23 00:42:24,880 INFO     message id is:1
+2017-06-23 00:42:24,880 INFO     message id is:1
+2017-06-23 00:47:01,629 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-23 00:47:01,644 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-23 00:47:01,766 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:47:01,767 INFO     message id is:245
+2017-06-23 00:47:01,768 INFO     message id is:249
+2017-06-23 00:47:01,768 INFO     message id is:248
+2017-06-23 00:47:01,768 INFO     public key associated
+2017-06-23 00:47:01,769 INFO     message id is:1
+2017-06-23 00:47:01,769 INFO     message id is:1
+2017-06-23 00:47:01,769 INFO     message id is:1
+2017-06-23 00:47:01,770 INFO     message id is:1
+2017-06-23 00:47:01,770 INFO     message id is:1
+2017-06-23 00:47:04,769 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:47:04,770 INFO     message id is:245
+2017-06-23 00:47:04,772 INFO     message id is:249
+2017-06-23 00:47:04,773 INFO     message id is:248
+2017-06-23 00:47:04,773 INFO     public key associated
+2017-06-23 00:47:07,769 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:47:07,770 INFO     message id is:245
+2017-06-23 00:47:07,772 INFO     message id is:249
+2017-06-23 00:47:07,773 INFO     message id is:248
+2017-06-23 00:47:07,773 INFO     public key associated
+2017-06-23 00:47:07,774 INFO     message id is:1
+2017-06-23 00:47:07,774 INFO     message id is:1
+2017-06-23 00:47:07,774 INFO     message id is:1
+2017-06-23 00:47:07,774 INFO     message id is:1
+2017-06-23 00:47:10,768 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:47:10,770 INFO     message id is:245
+2017-06-23 00:47:10,772 INFO     message id is:249
+2017-06-23 00:47:10,772 INFO     message id is:248
+2017-06-23 00:47:10,773 INFO     public key associated
+2017-06-23 00:47:10,773 INFO     message id is:1
+2017-06-23 00:47:10,773 INFO     message id is:1
+2017-06-23 00:47:10,773 INFO     message id is:1
+2017-06-23 00:47:10,774 INFO     message id is:1
+2017-06-23 00:47:13,769 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:47:13,770 INFO     message id is:245
+2017-06-23 00:47:13,772 INFO     message id is:249
+2017-06-23 00:47:13,772 INFO     message id is:248
+2017-06-23 00:47:13,773 INFO     public key associated
+2017-06-23 00:47:13,774 INFO     message id is:1
+2017-06-23 00:47:13,775 INFO     message id is:1
+2017-06-23 00:47:13,775 INFO     message id is:1
+2017-06-23 00:47:13,775 INFO     message id is:1
+2017-06-23 00:47:16,769 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:47:16,770 INFO     message id is:245
+2017-06-23 00:47:16,772 INFO     message id is:249
+2017-06-23 00:47:16,773 INFO     message id is:248
+2017-06-23 00:47:16,773 INFO     public key associated
+2017-06-23 00:47:16,773 INFO     message id is:1
+2017-06-23 00:47:16,773 INFO     message id is:1
+2017-06-23 00:47:16,774 INFO     message id is:1
+2017-06-23 00:47:16,774 INFO     message id is:1
+2017-06-23 00:47:19,769 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:47:19,770 INFO     message id is:245
+2017-06-23 00:47:19,772 INFO     message id is:249
+2017-06-23 00:47:19,772 INFO     message id is:248
+2017-06-23 00:47:19,773 INFO     public key associated
+2017-06-23 00:47:19,774 INFO     message id is:1
+2017-06-23 00:47:19,774 INFO     message id is:1
+2017-06-23 00:47:19,775 INFO     message id is:1
+2017-06-23 00:47:19,775 INFO     message id is:1
+2017-06-23 00:47:22,769 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:47:22,770 INFO     message id is:245
+2017-06-23 00:47:22,772 INFO     message id is:249
+2017-06-23 00:47:22,772 INFO     message id is:248
+2017-06-23 00:47:22,772 INFO     public key associated
+2017-06-23 00:47:22,774 INFO     message id is:1
+2017-06-23 00:47:22,774 INFO     message id is:1
+2017-06-23 00:47:22,775 INFO     message id is:1
+2017-06-23 00:47:22,775 INFO     message id is:1
+2017-06-23 00:47:25,769 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:47:25,771 INFO     message id is:245
+2017-06-23 00:47:25,773 INFO     message id is:249
+2017-06-23 00:47:25,773 INFO     message id is:248
+2017-06-23 00:47:25,774 INFO     public key associated
+2017-06-23 00:47:25,775 INFO     message id is:1
+2017-06-23 00:47:25,775 INFO     message id is:1
+2017-06-23 00:47:25,776 INFO     message id is:1
+2017-06-23 00:47:25,776 INFO     message id is:1
+2017-06-23 00:48:41,772 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-23 00:48:41,787 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-23 00:48:41,908 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:48:41,909 INFO     message id is:245
+2017-06-23 00:48:41,910 INFO     message id is:249
+2017-06-23 00:48:41,911 INFO     message id is:248
+2017-06-23 00:48:41,911 INFO     public key associated
+2017-06-23 00:48:41,911 INFO     message id is:1
+2017-06-23 00:48:41,912 INFO     message id is:1
+2017-06-23 00:48:41,912 INFO     message id is:1
+2017-06-23 00:48:41,912 INFO     message id is:1
+2017-06-23 00:48:41,912 INFO     message id is:1
+2017-06-23 00:48:44,911 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:48:44,912 INFO     message id is:245
+2017-06-23 00:48:44,914 INFO     message id is:249
+2017-06-23 00:48:44,914 INFO     message id is:248
+2017-06-23 00:48:44,915 INFO     public key associated
+2017-06-23 00:48:47,911 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:48:47,912 INFO     message id is:245
+2017-06-23 00:48:47,914 INFO     message id is:249
+2017-06-23 00:48:47,914 INFO     message id is:248
+2017-06-23 00:48:47,915 INFO     public key associated
+2017-06-23 00:48:47,916 INFO     message id is:1
+2017-06-23 00:48:47,916 INFO     message id is:1
+2017-06-23 00:48:47,917 INFO     message id is:1
+2017-06-23 00:48:47,917 INFO     message id is:1
+2017-06-23 00:48:50,912 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:48:50,913 INFO     message id is:245
+2017-06-23 00:48:50,915 INFO     message id is:249
+2017-06-23 00:48:50,915 INFO     message id is:248
+2017-06-23 00:48:50,915 INFO     public key associated
+2017-06-23 00:48:50,917 INFO     message id is:1
+2017-06-23 00:48:50,917 INFO     message id is:1
+2017-06-23 00:48:50,918 INFO     message id is:1
+2017-06-23 00:48:50,918 INFO     message id is:1
+2017-06-23 00:48:53,911 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:48:53,913 INFO     message id is:245
+2017-06-23 00:48:53,915 INFO     message id is:249
+2017-06-23 00:48:53,915 INFO     message id is:248
+2017-06-23 00:48:53,915 INFO     public key associated
+2017-06-23 00:48:53,917 INFO     message id is:1
+2017-06-23 00:48:53,917 INFO     message id is:1
+2017-06-23 00:48:53,918 INFO     message id is:1
+2017-06-23 00:48:53,918 INFO     message id is:1
+2017-06-23 00:48:56,912 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:48:56,913 INFO     message id is:245
+2017-06-23 00:48:56,914 INFO     message id is:249
+2017-06-23 00:48:56,915 INFO     message id is:248
+2017-06-23 00:48:56,915 INFO     public key associated
+2017-06-23 00:48:56,916 INFO     message id is:1
+2017-06-23 00:48:56,917 INFO     message id is:1
+2017-06-23 00:48:56,917 INFO     message id is:1
+2017-06-23 00:48:56,918 INFO     message id is:1
+2017-06-23 00:48:59,909 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:48:59,910 INFO     message id is:245
+2017-06-23 00:48:59,912 INFO     message id is:249
+2017-06-23 00:48:59,912 INFO     message id is:248
+2017-06-23 00:48:59,912 INFO     public key associated
+2017-06-23 00:48:59,914 INFO     message id is:1
+2017-06-23 00:48:59,914 INFO     message id is:1
+2017-06-23 00:48:59,915 INFO     message id is:1
+2017-06-23 00:48:59,915 INFO     message id is:1
+2017-06-23 00:56:57,478 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-23 00:56:57,494 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-23 00:56:57,616 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:56:57,617 INFO     message id is:245
+2017-06-23 00:56:57,618 INFO     message id is:249
+2017-06-23 00:56:57,618 INFO     message id is:248
+2017-06-23 00:56:57,618 INFO     public key associated
+2017-06-23 00:56:57,619 INFO     message id is:1
+2017-06-23 00:56:57,619 INFO     message id is:1
+2017-06-23 00:56:57,619 INFO     message id is:1
+2017-06-23 00:56:57,620 INFO     message id is:1
+2017-06-23 00:56:57,620 INFO     message id is:1
+2017-06-23 00:57:00,619 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:57:00,620 INFO     message id is:245
+2017-06-23 00:57:00,623 INFO     message id is:249
+2017-06-23 00:57:00,623 INFO     message id is:248
+2017-06-23 00:57:00,624 INFO     public key associated
+2017-06-23 00:57:03,619 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:57:03,621 INFO     message id is:245
+2017-06-23 00:57:03,623 INFO     message id is:249
+2017-06-23 00:57:03,623 INFO     message id is:248
+2017-06-23 00:57:03,624 INFO     public key associated
+2017-06-23 00:57:03,625 INFO     message id is:1
+2017-06-23 00:57:03,626 INFO     message id is:1
+2017-06-23 00:57:03,626 INFO     message id is:1
+2017-06-23 00:57:03,626 INFO     message id is:1
+2017-06-23 00:57:06,619 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:57:06,620 INFO     message id is:245
+2017-06-23 00:57:06,622 INFO     message id is:249
+2017-06-23 00:57:06,623 INFO     message id is:248
+2017-06-23 00:57:06,623 INFO     public key associated
+2017-06-23 00:57:06,623 INFO     message id is:1
+2017-06-23 00:57:06,624 INFO     message id is:1
+2017-06-23 00:57:06,624 INFO     message id is:1
+2017-06-23 00:57:06,624 INFO     message id is:1
+2017-06-23 00:57:09,619 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:57:09,620 INFO     message id is:245
+2017-06-23 00:57:09,623 INFO     message id is:249
+2017-06-23 00:57:09,623 INFO     message id is:248
+2017-06-23 00:57:09,624 INFO     public key associated
+2017-06-23 00:57:09,624 INFO     message id is:1
+2017-06-23 00:57:09,625 INFO     message id is:1
+2017-06-23 00:57:09,625 INFO     message id is:1
+2017-06-23 00:57:09,625 INFO     message id is:1
+2017-06-23 00:57:12,619 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:57:12,620 INFO     message id is:245
+2017-06-23 00:57:12,623 INFO     message id is:249
+2017-06-23 00:57:12,623 INFO     message id is:248
+2017-06-23 00:57:12,623 INFO     public key associated
+2017-06-23 00:57:12,624 INFO     message id is:1
+2017-06-23 00:57:12,624 INFO     message id is:1
+2017-06-23 00:57:12,624 INFO     message id is:1
+2017-06-23 00:57:12,624 INFO     message id is:1
+2017-06-23 00:57:15,619 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:57:15,620 INFO     message id is:245
+2017-06-23 00:57:15,623 INFO     message id is:249
+2017-06-23 00:57:15,623 INFO     message id is:248
+2017-06-23 00:57:15,624 INFO     public key associated
+2017-06-23 00:57:15,624 INFO     message id is:1
+2017-06-23 00:57:15,624 INFO     message id is:1
+2017-06-23 00:57:15,625 INFO     message id is:1
+2017-06-23 00:57:15,625 INFO     message id is:1
+2017-06-23 00:57:18,619 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:57:18,620 INFO     message id is:245
+2017-06-23 00:57:18,622 INFO     message id is:249
+2017-06-23 00:57:18,623 INFO     message id is:248
+2017-06-23 00:57:18,623 INFO     public key associated
+2017-06-23 00:57:18,624 INFO     message id is:1
+2017-06-23 00:57:18,624 INFO     message id is:1
+2017-06-23 00:57:18,624 INFO     message id is:1
+2017-06-23 00:57:18,624 INFO     message id is:1
+2017-06-23 00:57:21,619 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:57:21,621 INFO     message id is:245
+2017-06-23 00:57:21,623 INFO     message id is:249
+2017-06-23 00:57:21,623 INFO     message id is:248
+2017-06-23 00:57:21,624 INFO     public key associated
+2017-06-23 00:57:21,624 INFO     message id is:1
+2017-06-23 00:57:21,624 INFO     message id is:1
+2017-06-23 00:57:21,625 INFO     message id is:1
+2017-06-23 00:57:21,625 INFO     message id is:1
+2017-06-23 00:57:24,619 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:57:24,620 INFO     message id is:245
+2017-06-23 00:57:24,622 INFO     message id is:249
+2017-06-23 00:57:24,623 INFO     message id is:248
+2017-06-23 00:57:24,623 INFO     public key associated
+2017-06-23 00:57:24,624 INFO     message id is:1
+2017-06-23 00:57:24,624 INFO     message id is:1
+2017-06-23 00:57:24,624 INFO     message id is:1
+2017-06-23 00:57:24,624 INFO     message id is:1
+2017-06-23 00:57:27,619 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:57:27,620 INFO     message id is:245
+2017-06-23 00:57:27,623 INFO     message id is:249
+2017-06-23 00:57:27,623 INFO     message id is:248
+2017-06-23 00:57:27,624 INFO     public key associated
+2017-06-23 00:57:27,624 INFO     message id is:1
+2017-06-23 00:57:27,624 INFO     message id is:1
+2017-06-23 00:57:27,625 INFO     message id is:1
+2017-06-23 00:57:27,625 INFO     message id is:1
+2017-06-23 00:57:30,619 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:57:30,620 INFO     message id is:245
+2017-06-23 00:57:30,622 INFO     message id is:249
+2017-06-23 00:57:30,623 INFO     message id is:248
+2017-06-23 00:57:30,623 INFO     public key associated
+2017-06-23 00:57:30,624 INFO     message id is:1
+2017-06-23 00:57:30,624 INFO     message id is:1
+2017-06-23 00:57:30,624 INFO     message id is:1
+2017-06-23 00:57:30,624 INFO     message id is:1
+2017-06-23 00:57:33,619 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:57:33,621 INFO     message id is:245
+2017-06-23 00:57:33,623 INFO     message id is:249
+2017-06-23 00:57:33,623 INFO     message id is:248
+2017-06-23 00:57:33,624 INFO     public key associated
+2017-06-23 00:57:33,624 INFO     message id is:1
+2017-06-23 00:57:33,625 INFO     message id is:1
+2017-06-23 00:57:33,625 INFO     message id is:1
+2017-06-23 00:57:33,625 INFO     message id is:1
+2017-06-23 00:58:19,775 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-23 00:58:19,791 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-23 00:58:19,912 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:58:19,913 INFO     message id is:245
+2017-06-23 00:58:19,914 INFO     message id is:249
+2017-06-23 00:58:19,914 INFO     message id is:248
+2017-06-23 00:58:19,914 INFO     public key associated
+2017-06-23 00:58:19,915 INFO     message id is:1
+2017-06-23 00:58:19,915 INFO     message id is:1
+2017-06-23 00:58:19,915 INFO     message id is:1
+2017-06-23 00:58:19,915 INFO     message id is:1
+2017-06-23 00:58:19,916 INFO     message id is:1
+2017-06-23 00:58:22,915 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:58:22,917 INFO     message id is:245
+2017-06-23 00:58:22,918 INFO     message id is:249
+2017-06-23 00:58:22,919 INFO     message id is:248
+2017-06-23 00:58:22,919 INFO     public key associated
+2017-06-23 00:58:25,915 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:58:25,917 INFO     message id is:245
+2017-06-23 00:58:25,919 INFO     message id is:249
+2017-06-23 00:58:25,919 INFO     message id is:248
+2017-06-23 00:58:25,919 INFO     public key associated
+2017-06-23 00:58:25,921 INFO     message id is:1
+2017-06-23 00:58:25,921 INFO     message id is:1
+2017-06-23 00:58:25,922 INFO     message id is:1
+2017-06-23 00:58:25,922 INFO     message id is:1
+2017-06-23 00:58:28,916 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:58:28,917 INFO     message id is:245
+2017-06-23 00:58:28,919 INFO     message id is:249
+2017-06-23 00:58:28,919 INFO     message id is:248
+2017-06-23 00:58:28,919 INFO     public key associated
+2017-06-23 00:58:28,921 INFO     message id is:1
+2017-06-23 00:58:28,921 INFO     message id is:1
+2017-06-23 00:58:28,922 INFO     message id is:1
+2017-06-23 00:58:28,922 INFO     message id is:1
+2017-06-23 00:58:31,915 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:58:31,917 INFO     message id is:245
+2017-06-23 00:58:31,919 INFO     message id is:249
+2017-06-23 00:58:31,919 INFO     message id is:248
+2017-06-23 00:58:31,920 INFO     public key associated
+2017-06-23 00:58:31,921 INFO     message id is:1
+2017-06-23 00:58:31,921 INFO     message id is:1
+2017-06-23 00:58:31,922 INFO     message id is:1
+2017-06-23 00:58:31,922 INFO     message id is:1
+2017-06-23 00:58:34,914 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 00:58:34,915 INFO     message id is:245
+2017-06-23 00:58:34,915 INFO     message id is:249
+2017-06-23 00:58:34,916 INFO     message id is:248
+2017-06-23 00:58:34,916 INFO     public key associated
+2017-06-23 00:58:34,916 INFO     message id is:1
+2017-06-23 00:58:34,916 INFO     message id is:1
+2017-06-23 00:58:34,917 INFO     message id is:1
+2017-06-23 00:58:34,917 INFO     message id is:1
+2017-06-23 01:01:44,922 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-23 01:01:44,938 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-23 01:01:45,067 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:01:45,068 INFO     message id is:245
+2017-06-23 01:01:45,069 INFO     message id is:249
+2017-06-23 01:01:45,069 INFO     message id is:248
+2017-06-23 01:01:45,069 INFO     public key associated
+2017-06-23 01:01:48,070 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:01:48,072 INFO     message id is:245
+2017-06-23 01:01:48,073 INFO     message id is:249
+2017-06-23 01:01:48,073 INFO     message id is:248
+2017-06-23 01:01:48,074 INFO     public key associated
+2017-06-23 01:01:51,070 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:01:51,072 INFO     message id is:245
+2017-06-23 01:01:51,073 INFO     message id is:249
+2017-06-23 01:01:51,074 INFO     message id is:248
+2017-06-23 01:01:51,074 INFO     public key associated
+2017-06-23 01:01:54,070 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:01:54,072 INFO     message id is:245
+2017-06-23 01:01:54,073 INFO     message id is:249
+2017-06-23 01:01:54,074 INFO     message id is:248
+2017-06-23 01:01:54,074 INFO     public key associated
+2017-06-23 01:01:57,070 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:01:57,072 INFO     message id is:245
+2017-06-23 01:01:57,073 INFO     message id is:249
+2017-06-23 01:01:57,074 INFO     message id is:248
+2017-06-23 01:01:57,074 INFO     public key associated
+2017-06-23 01:02:00,070 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:02:00,072 INFO     message id is:245
+2017-06-23 01:02:00,073 INFO     message id is:249
+2017-06-23 01:02:00,074 INFO     message id is:248
+2017-06-23 01:02:00,074 INFO     public key associated
+2017-06-23 01:02:03,070 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:02:03,072 INFO     message id is:245
+2017-06-23 01:02:03,074 INFO     message id is:249
+2017-06-23 01:02:03,074 INFO     message id is:248
+2017-06-23 01:02:03,074 INFO     public key associated
+2017-06-23 01:02:06,070 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:02:06,071 INFO     message id is:245
+2017-06-23 01:02:06,073 INFO     message id is:249
+2017-06-23 01:02:06,073 INFO     message id is:248
+2017-06-23 01:02:06,074 INFO     public key associated
+2017-06-23 01:02:09,070 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:02:09,071 INFO     message id is:245
+2017-06-23 01:02:09,073 INFO     message id is:249
+2017-06-23 01:02:09,073 INFO     message id is:248
+2017-06-23 01:02:09,074 INFO     public key associated
+2017-06-23 01:02:12,070 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:02:12,071 INFO     message id is:245
+2017-06-23 01:02:12,072 INFO     message id is:249
+2017-06-23 01:02:12,073 INFO     message id is:248
+2017-06-23 01:02:12,073 INFO     public key associated
+2017-06-23 01:02:15,070 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:02:15,071 INFO     message id is:245
+2017-06-23 01:02:15,073 INFO     message id is:249
+2017-06-23 01:02:15,073 INFO     message id is:248
+2017-06-23 01:02:15,073 INFO     public key associated
+2017-06-23 01:03:31,121 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-23 01:03:31,137 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-23 01:03:31,266 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:03:31,266 INFO     message id is:245
+2017-06-23 01:03:31,267 INFO     message id is:249
+2017-06-23 01:03:31,268 INFO     message id is:248
+2017-06-23 01:03:31,268 INFO     public key associated
+2017-06-23 01:03:34,269 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:03:34,271 INFO     message id is:245
+2017-06-23 01:03:34,272 INFO     message id is:249
+2017-06-23 01:03:34,272 INFO     message id is:248
+2017-06-23 01:03:34,273 INFO     public key associated
+2017-06-23 01:03:37,269 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:03:37,271 INFO     message id is:245
+2017-06-23 01:03:37,272 INFO     message id is:249
+2017-06-23 01:03:37,273 INFO     message id is:248
+2017-06-23 01:03:37,273 INFO     public key associated
+2017-06-23 01:03:40,269 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:03:40,271 INFO     message id is:245
+2017-06-23 01:03:40,272 INFO     message id is:249
+2017-06-23 01:03:40,272 INFO     message id is:248
+2017-06-23 01:03:40,273 INFO     public key associated
+2017-06-23 01:03:43,269 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:03:43,270 INFO     message id is:245
+2017-06-23 01:03:43,272 INFO     message id is:249
+2017-06-23 01:03:43,272 INFO     message id is:248
+2017-06-23 01:03:43,273 INFO     public key associated
+2017-06-23 01:03:46,269 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:03:46,270 INFO     message id is:245
+2017-06-23 01:03:46,272 INFO     message id is:249
+2017-06-23 01:03:46,272 INFO     message id is:248
+2017-06-23 01:03:46,273 INFO     public key associated
+2017-06-23 01:03:49,269 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:03:49,271 INFO     message id is:245
+2017-06-23 01:03:49,272 INFO     message id is:249
+2017-06-23 01:03:49,273 INFO     message id is:248
+2017-06-23 01:03:49,273 INFO     public key associated
+2017-06-23 01:03:52,269 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:03:52,271 INFO     message id is:245
+2017-06-23 01:03:52,272 INFO     message id is:249
+2017-06-23 01:03:52,273 INFO     message id is:248
+2017-06-23 01:03:52,273 INFO     public key associated
+2017-06-23 01:03:55,269 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:03:55,271 INFO     message id is:245
+2017-06-23 01:03:55,272 INFO     message id is:249
+2017-06-23 01:03:55,273 INFO     message id is:248
+2017-06-23 01:03:55,273 INFO     public key associated
+2017-06-23 01:03:58,269 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:03:58,271 INFO     message id is:245
+2017-06-23 01:03:58,272 INFO     message id is:249
+2017-06-23 01:03:58,272 INFO     message id is:248
+2017-06-23 01:03:58,273 INFO     public key associated
+2017-06-23 01:04:01,269 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:04:01,271 INFO     message id is:245
+2017-06-23 01:04:01,272 INFO     message id is:249
+2017-06-23 01:04:01,272 INFO     message id is:248
+2017-06-23 01:04:01,273 INFO     public key associated
+2017-06-23 01:04:04,269 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:04:04,270 INFO     message id is:245
+2017-06-23 01:04:04,272 INFO     message id is:249
+2017-06-23 01:04:04,272 INFO     message id is:248
+2017-06-23 01:04:04,273 INFO     public key associated
+2017-06-23 01:04:43,809 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-23 01:04:43,825 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-23 01:04:43,953 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:04:43,954 INFO     message id is:245
+2017-06-23 01:04:43,955 INFO     message id is:249
+2017-06-23 01:04:43,955 INFO     message id is:248
+2017-06-23 01:04:43,955 INFO     public key associated
+2017-06-23 01:04:46,956 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:04:46,958 INFO     message id is:245
+2017-06-23 01:04:46,959 INFO     message id is:249
+2017-06-23 01:04:46,960 INFO     message id is:248
+2017-06-23 01:04:46,960 INFO     public key associated
+2017-06-23 01:04:49,956 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:04:49,958 INFO     message id is:245
+2017-06-23 01:04:49,959 INFO     message id is:249
+2017-06-23 01:04:49,960 INFO     message id is:248
+2017-06-23 01:04:49,960 INFO     public key associated
+2017-06-23 01:05:39,761 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-23 01:05:39,777 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-23 01:05:39,904 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:05:39,905 INFO     message id is:245
+2017-06-23 01:05:39,906 INFO     message id is:249
+2017-06-23 01:05:39,906 INFO     message id is:248
+2017-06-23 01:05:39,906 INFO     public key associated
+2017-06-23 01:05:42,907 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:05:42,909 INFO     message id is:245
+2017-06-23 01:05:42,910 INFO     message id is:249
+2017-06-23 01:05:42,911 INFO     message id is:248
+2017-06-23 01:05:42,911 INFO     public key associated
+2017-06-23 01:05:45,907 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:05:45,909 INFO     message id is:245
+2017-06-23 01:05:45,911 INFO     message id is:249
+2017-06-23 01:05:45,911 INFO     message id is:248
+2017-06-23 01:05:45,912 INFO     public key associated
+2017-06-23 01:05:48,905 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:05:48,906 INFO     message id is:245
+2017-06-23 01:05:48,908 INFO     message id is:249
+2017-06-23 01:05:48,909 INFO     message id is:248
+2017-06-23 01:05:48,909 INFO     public key associated
+2017-06-23 01:05:51,907 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:05:51,908 INFO     message id is:245
+2017-06-23 01:05:51,910 INFO     message id is:249
+2017-06-23 01:05:51,911 INFO     message id is:248
+2017-06-23 01:05:51,912 INFO     public key associated
+2017-06-23 01:05:54,905 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:05:54,906 INFO     message id is:245
+2017-06-23 01:05:54,909 INFO     message id is:249
+2017-06-23 01:05:54,909 INFO     message id is:248
+2017-06-23 01:05:54,910 INFO     public key associated
+2017-06-23 01:05:57,907 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:05:57,908 INFO     message id is:245
+2017-06-23 01:05:57,911 INFO     message id is:249
+2017-06-23 01:05:57,911 INFO     message id is:248
+2017-06-23 01:05:57,912 INFO     public key associated
+2017-06-23 01:06:00,907 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:06:00,908 INFO     message id is:245
+2017-06-23 01:06:00,910 INFO     message id is:249
+2017-06-23 01:06:00,910 INFO     message id is:248
+2017-06-23 01:06:00,911 INFO     public key associated
+2017-06-23 01:06:03,907 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:06:03,908 INFO     message id is:245
+2017-06-23 01:06:03,910 INFO     message id is:249
+2017-06-23 01:06:03,910 INFO     message id is:248
+2017-06-23 01:06:03,911 INFO     public key associated
+2017-06-23 01:06:06,907 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:06:06,908 INFO     message id is:245
+2017-06-23 01:06:06,910 INFO     message id is:249
+2017-06-23 01:06:06,910 INFO     message id is:248
+2017-06-23 01:06:06,911 INFO     public key associated
+2017-06-23 01:06:09,907 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:06:09,908 INFO     message id is:245
+2017-06-23 01:06:09,910 INFO     message id is:249
+2017-06-23 01:06:09,910 INFO     message id is:248
+2017-06-23 01:06:09,911 INFO     public key associated
+2017-06-23 01:06:12,907 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:06:12,908 INFO     message id is:245
+2017-06-23 01:06:12,910 INFO     message id is:249
+2017-06-23 01:06:12,910 INFO     message id is:248
+2017-06-23 01:06:12,911 INFO     public key associated
+2017-06-23 01:06:15,907 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:06:15,908 INFO     message id is:245
+2017-06-23 01:06:15,910 INFO     message id is:249
+2017-06-23 01:06:15,910 INFO     message id is:248
+2017-06-23 01:06:15,911 INFO     public key associated
+2017-06-23 01:06:18,907 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:06:18,908 INFO     message id is:245
+2017-06-23 01:06:18,910 INFO     message id is:249
+2017-06-23 01:06:18,910 INFO     message id is:248
+2017-06-23 01:06:18,911 INFO     public key associated
+2017-06-23 01:06:21,907 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:06:21,908 INFO     message id is:245
+2017-06-23 01:06:21,910 INFO     message id is:249
+2017-06-23 01:06:21,910 INFO     message id is:248
+2017-06-23 01:06:21,911 INFO     public key associated
+2017-06-23 01:06:24,906 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:06:24,907 INFO     message id is:245
+2017-06-23 01:06:24,908 INFO     message id is:249
+2017-06-23 01:06:24,908 INFO     message id is:248
+2017-06-23 01:06:24,908 INFO     public key associated
+2017-06-23 01:06:27,907 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:06:27,909 INFO     message id is:245
+2017-06-23 01:06:27,911 INFO     message id is:249
+2017-06-23 01:06:27,911 INFO     message id is:248
+2017-06-23 01:06:27,911 INFO     public key associated
+2017-06-23 01:06:30,907 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:06:30,909 INFO     message id is:245
+2017-06-23 01:06:30,910 INFO     message id is:249
+2017-06-23 01:06:30,911 INFO     message id is:248
+2017-06-23 01:06:30,911 INFO     public key associated
+2017-06-23 01:06:33,907 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:06:33,909 INFO     message id is:245
+2017-06-23 01:06:33,910 INFO     message id is:249
+2017-06-23 01:06:33,910 INFO     message id is:248
+2017-06-23 01:06:33,911 INFO     public key associated
+2017-06-23 01:06:36,907 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:06:36,909 INFO     message id is:245
+2017-06-23 01:06:36,910 INFO     message id is:249
+2017-06-23 01:06:36,911 INFO     message id is:248
+2017-06-23 01:06:36,911 INFO     public key associated
+2017-06-23 01:06:39,905 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:10:59,623 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-23 01:10:59,639 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-23 01:10:59,760 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:10:59,761 INFO     message id is:245
+2017-06-23 01:10:59,762 INFO     message id is:249
+2017-06-23 01:10:59,762 INFO     message id is:248
+2017-06-23 01:10:59,762 INFO     public key associated
+2017-06-23 01:10:59,763 INFO     message id is:1
+2017-06-23 01:10:59,763 INFO     message id is:1
+2017-06-23 01:10:59,763 INFO     message id is:1
+2017-06-23 01:10:59,764 INFO     message id is:1
+2017-06-23 01:10:59,764 INFO     message id is:1
+2017-06-23 01:11:02,764 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:11:02,765 INFO     message id is:245
+2017-06-23 01:11:02,767 INFO     message id is:249
+2017-06-23 01:11:02,767 INFO     message id is:248
+2017-06-23 01:11:02,768 INFO     public key associated
+2017-06-23 01:11:05,764 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:11:05,765 INFO     message id is:245
+2017-06-23 01:11:05,767 INFO     message id is:249
+2017-06-23 01:11:05,767 INFO     message id is:248
+2017-06-23 01:11:05,768 INFO     public key associated
+2017-06-23 01:11:05,769 INFO     message id is:1
+2017-06-23 01:11:05,770 INFO     message id is:1
+2017-06-23 01:11:05,770 INFO     message id is:1
+2017-06-23 01:11:05,770 INFO     message id is:1
+2017-06-23 01:11:08,764 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:11:08,765 INFO     message id is:245
+2017-06-23 01:11:08,767 INFO     message id is:249
+2017-06-23 01:11:08,767 INFO     message id is:248
+2017-06-23 01:11:08,767 INFO     public key associated
+2017-06-23 01:11:08,769 INFO     message id is:1
+2017-06-23 01:11:08,769 INFO     message id is:1
+2017-06-23 01:11:08,770 INFO     message id is:1
+2017-06-23 01:11:08,770 INFO     message id is:1
+2017-06-23 01:11:11,763 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:11:11,765 INFO     message id is:245
+2017-06-23 01:11:11,767 INFO     message id is:249
+2017-06-23 01:11:11,767 INFO     message id is:248
+2017-06-23 01:11:11,767 INFO     public key associated
+2017-06-23 01:11:11,769 INFO     message id is:1
+2017-06-23 01:11:11,769 INFO     message id is:1
+2017-06-23 01:11:11,770 INFO     message id is:1
+2017-06-23 01:11:11,770 INFO     message id is:1
+2017-06-23 01:11:14,763 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:11:14,765 INFO     message id is:245
+2017-06-23 01:11:14,766 INFO     message id is:249
+2017-06-23 01:11:14,766 INFO     message id is:248
+2017-06-23 01:11:14,767 INFO     public key associated
+2017-06-23 01:11:14,768 INFO     message id is:1
+2017-06-23 01:11:14,768 INFO     message id is:1
+2017-06-23 01:11:14,769 INFO     message id is:1
+2017-06-23 01:11:14,769 INFO     message id is:1
+2017-06-23 01:11:17,764 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:11:17,765 INFO     message id is:245
+2017-06-23 01:11:17,766 INFO     message id is:249
+2017-06-23 01:11:17,767 INFO     message id is:248
+2017-06-23 01:11:17,767 INFO     public key associated
+2017-06-23 01:11:17,769 INFO     message id is:1
+2017-06-23 01:11:17,769 INFO     message id is:1
+2017-06-23 01:11:17,770 INFO     message id is:1
+2017-06-23 01:11:17,770 INFO     message id is:1
+2017-06-23 01:11:20,763 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:11:20,765 INFO     message id is:245
+2017-06-23 01:11:20,766 INFO     message id is:249
+2017-06-23 01:11:20,767 INFO     message id is:248
+2017-06-23 01:11:20,767 INFO     public key associated
+2017-06-23 01:11:20,768 INFO     message id is:1
+2017-06-23 01:11:20,769 INFO     message id is:1
+2017-06-23 01:11:20,769 INFO     message id is:1
+2017-06-23 01:11:20,770 INFO     message id is:1
+2017-06-23 01:11:23,764 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:11:23,765 INFO     message id is:245
+2017-06-23 01:11:23,767 INFO     message id is:249
+2017-06-23 01:11:23,767 INFO     message id is:248
+2017-06-23 01:11:23,767 INFO     public key associated
+2017-06-23 01:11:23,768 INFO     message id is:1
+2017-06-23 01:11:23,769 INFO     message id is:1
+2017-06-23 01:11:23,769 INFO     message id is:1
+2017-06-23 01:11:23,770 INFO     message id is:1
+2017-06-23 01:11:26,763 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:11:26,765 INFO     message id is:245
+2017-06-23 01:11:26,767 INFO     message id is:249
+2017-06-23 01:11:26,767 INFO     message id is:248
+2017-06-23 01:11:26,767 INFO     public key associated
+2017-06-23 01:11:26,768 INFO     message id is:1
+2017-06-23 01:11:26,769 INFO     message id is:1
+2017-06-23 01:11:26,770 INFO     message id is:1
+2017-06-23 01:11:26,770 INFO     message id is:1
+2017-06-23 01:11:29,763 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:12:21,393 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-23 01:12:21,409 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-23 01:12:21,536 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:12:21,537 INFO     message id is:245
+2017-06-23 01:12:21,538 INFO     message id is:249
+2017-06-23 01:12:21,538 INFO     message id is:248
+2017-06-23 01:12:21,538 INFO     public key associated
+2017-06-23 01:12:21,538 INFO     message id is:1
+2017-06-23 01:12:21,539 INFO     message id is:1
+2017-06-23 01:12:21,539 INFO     message id is:1
+2017-06-23 01:12:21,539 INFO     message id is:1
+2017-06-23 01:12:21,539 INFO     message id is:1
+2017-06-23 01:12:24,539 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:12:24,541 INFO     message id is:245
+2017-06-23 01:12:24,542 INFO     message id is:249
+2017-06-23 01:12:24,542 INFO     message id is:248
+2017-06-23 01:12:24,543 INFO     public key associated
+2017-06-23 01:12:27,539 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:12:27,540 INFO     message id is:245
+2017-06-23 01:12:27,542 INFO     message id is:249
+2017-06-23 01:12:27,542 INFO     message id is:248
+2017-06-23 01:12:27,543 INFO     public key associated
+2017-06-23 01:12:27,544 INFO     message id is:1
+2017-06-23 01:12:27,545 INFO     message id is:1
+2017-06-23 01:12:27,545 INFO     message id is:1
+2017-06-23 01:12:27,545 INFO     message id is:1
+2017-06-23 01:12:30,539 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:12:30,540 INFO     message id is:245
+2017-06-23 01:12:30,542 INFO     message id is:249
+2017-06-23 01:12:30,542 INFO     message id is:248
+2017-06-23 01:12:30,543 INFO     public key associated
+2017-06-23 01:12:30,544 INFO     message id is:1
+2017-06-23 01:12:30,544 INFO     message id is:1
+2017-06-23 01:12:30,545 INFO     message id is:1
+2017-06-23 01:12:30,545 INFO     message id is:1
+2017-06-23 01:12:33,539 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:12:33,540 INFO     message id is:245
+2017-06-23 01:12:33,542 INFO     message id is:249
+2017-06-23 01:12:33,542 INFO     message id is:248
+2017-06-23 01:12:33,543 INFO     public key associated
+2017-06-23 01:12:33,544 INFO     message id is:1
+2017-06-23 01:12:33,544 INFO     message id is:1
+2017-06-23 01:12:33,544 INFO     message id is:1
+2017-06-23 01:12:33,544 INFO     message id is:1
+2017-06-23 01:12:36,539 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:12:36,540 INFO     message id is:245
+2017-06-23 01:12:36,542 INFO     message id is:249
+2017-06-23 01:12:36,542 INFO     message id is:248
+2017-06-23 01:12:36,542 INFO     public key associated
+2017-06-23 01:12:36,544 INFO     message id is:1
+2017-06-23 01:12:36,544 INFO     message id is:1
+2017-06-23 01:12:36,545 INFO     message id is:1
+2017-06-23 01:12:36,545 INFO     message id is:1
+2017-06-23 01:12:39,538 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:12:39,540 INFO     message id is:245
+2017-06-23 01:12:39,542 INFO     message id is:249
+2017-06-23 01:12:39,542 INFO     message id is:248
+2017-06-23 01:12:39,542 INFO     public key associated
+2017-06-23 01:12:39,543 INFO     message id is:1
+2017-06-23 01:12:39,544 INFO     message id is:1
+2017-06-23 01:12:39,544 INFO     message id is:1
+2017-06-23 01:12:39,544 INFO     message id is:1
+2017-06-23 01:12:42,539 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:12:42,540 INFO     message id is:245
+2017-06-23 01:12:42,542 INFO     message id is:249
+2017-06-23 01:12:42,542 INFO     message id is:248
+2017-06-23 01:12:42,542 INFO     public key associated
+2017-06-23 01:12:42,544 INFO     message id is:1
+2017-06-23 01:12:42,544 INFO     message id is:1
+2017-06-23 01:12:42,545 INFO     message id is:1
+2017-06-23 01:12:42,545 INFO     message id is:1
+2017-06-23 01:13:14,558 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-23 01:13:14,574 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-23 01:13:14,694 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:13:14,695 INFO     message id is:245
+2017-06-23 01:13:14,696 INFO     message id is:249
+2017-06-23 01:13:14,696 INFO     message id is:248
+2017-06-23 01:13:14,696 INFO     public key associated
+2017-06-23 01:13:14,696 INFO     message id is:1
+2017-06-23 01:13:14,697 INFO     message id is:1
+2017-06-23 01:13:14,697 INFO     message id is:1
+2017-06-23 01:13:14,697 INFO     message id is:1
+2017-06-23 01:13:14,697 INFO     message id is:1
+2017-06-23 01:13:17,697 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:13:17,698 INFO     message id is:245
+2017-06-23 01:13:17,700 INFO     message id is:249
+2017-06-23 01:13:17,700 INFO     message id is:248
+2017-06-23 01:13:17,700 INFO     public key associated
+2017-06-23 01:13:20,697 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:13:20,699 INFO     message id is:245
+2017-06-23 01:13:20,701 INFO     message id is:249
+2017-06-23 01:13:20,701 INFO     message id is:248
+2017-06-23 01:13:20,701 INFO     public key associated
+2017-06-23 01:13:20,703 INFO     message id is:1
+2017-06-23 01:13:20,703 INFO     message id is:1
+2017-06-23 01:13:20,703 INFO     message id is:1
+2017-06-23 01:13:20,704 INFO     message id is:1
+2017-06-23 01:13:23,697 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:13:23,699 INFO     message id is:245
+2017-06-23 01:13:23,700 INFO     message id is:249
+2017-06-23 01:13:23,701 INFO     message id is:248
+2017-06-23 01:13:23,701 INFO     public key associated
+2017-06-23 01:13:23,702 INFO     message id is:1
+2017-06-23 01:13:23,703 INFO     message id is:1
+2017-06-23 01:13:23,703 INFO     message id is:1
+2017-06-23 01:13:23,704 INFO     message id is:1
+2017-06-23 01:13:26,697 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:13:26,698 INFO     message id is:245
+2017-06-23 01:13:26,700 INFO     message id is:249
+2017-06-23 01:13:26,701 INFO     message id is:248
+2017-06-23 01:13:26,701 INFO     public key associated
+2017-06-23 01:13:26,702 INFO     message id is:1
+2017-06-23 01:13:26,703 INFO     message id is:1
+2017-06-23 01:13:26,703 INFO     message id is:1
+2017-06-23 01:13:26,704 INFO     message id is:1
+2017-06-23 01:13:29,697 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:13:29,699 INFO     message id is:245
+2017-06-23 01:13:29,700 INFO     message id is:249
+2017-06-23 01:13:29,701 INFO     message id is:248
+2017-06-23 01:13:29,701 INFO     public key associated
+2017-06-23 01:13:29,703 INFO     message id is:1
+2017-06-23 01:13:29,703 INFO     message id is:1
+2017-06-23 01:13:29,703 INFO     message id is:1
+2017-06-23 01:13:29,704 INFO     message id is:1
+2017-06-23 01:13:32,697 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:13:32,699 INFO     message id is:245
+2017-06-23 01:13:32,700 INFO     message id is:249
+2017-06-23 01:13:32,701 INFO     message id is:248
+2017-06-23 01:13:32,701 INFO     public key associated
+2017-06-23 01:13:32,703 INFO     message id is:1
+2017-06-23 01:13:32,703 INFO     message id is:1
+2017-06-23 01:13:32,704 INFO     message id is:1
+2017-06-23 01:13:32,704 INFO     message id is:1
+2017-06-23 01:13:35,697 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:13:35,699 INFO     message id is:245
+2017-06-23 01:13:35,701 INFO     message id is:249
+2017-06-23 01:13:35,701 INFO     message id is:248
+2017-06-23 01:13:35,701 INFO     public key associated
+2017-06-23 01:13:35,703 INFO     message id is:1
+2017-06-23 01:13:35,703 INFO     message id is:1
+2017-06-23 01:13:35,704 INFO     message id is:1
+2017-06-23 01:13:35,704 INFO     message id is:1
+2017-06-23 01:13:38,698 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:13:38,699 INFO     message id is:245
+2017-06-23 01:13:38,701 INFO     message id is:249
+2017-06-23 01:13:38,701 INFO     message id is:248
+2017-06-23 01:13:38,702 INFO     public key associated
+2017-06-23 01:13:38,703 INFO     message id is:1
+2017-06-23 01:13:38,703 INFO     message id is:1
+2017-06-23 01:13:38,704 INFO     message id is:1
+2017-06-23 01:13:38,704 INFO     message id is:1
+2017-06-23 01:13:41,697 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:13:41,698 INFO     message id is:245
+2017-06-23 01:13:41,700 INFO     message id is:249
+2017-06-23 01:13:41,700 INFO     message id is:248
+2017-06-23 01:13:41,701 INFO     public key associated
+2017-06-23 01:13:41,702 INFO     message id is:1
+2017-06-23 01:13:41,703 INFO     message id is:1
+2017-06-23 01:13:41,703 INFO     message id is:1
+2017-06-23 01:13:41,704 INFO     message id is:1
+2017-06-23 01:13:44,697 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:13:44,699 INFO     message id is:245
+2017-06-23 01:13:44,700 INFO     message id is:249
+2017-06-23 01:13:44,701 INFO     message id is:248
+2017-06-23 01:13:44,701 INFO     public key associated
+2017-06-23 01:13:44,702 INFO     message id is:1
+2017-06-23 01:13:44,703 INFO     message id is:1
+2017-06-23 01:13:44,703 INFO     message id is:1
+2017-06-23 01:13:44,704 INFO     message id is:1
+2017-06-23 01:13:47,697 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:13:47,699 INFO     message id is:245
+2017-06-23 01:13:47,701 INFO     message id is:249
+2017-06-23 01:13:47,701 INFO     message id is:248
+2017-06-23 01:13:47,702 INFO     public key associated
+2017-06-23 01:13:47,702 INFO     message id is:1
+2017-06-23 01:13:47,702 INFO     message id is:1
+2017-06-23 01:13:47,702 INFO     message id is:1
+2017-06-23 01:13:47,702 INFO     message id is:1
+2017-06-23 01:13:50,697 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:13:50,699 INFO     message id is:245
+2017-06-23 01:13:50,701 INFO     message id is:249
+2017-06-23 01:13:50,701 INFO     message id is:248
+2017-06-23 01:13:50,701 INFO     public key associated
+2017-06-23 01:13:50,703 INFO     message id is:1
+2017-06-23 01:13:50,703 INFO     message id is:1
+2017-06-23 01:13:50,704 INFO     message id is:1
+2017-06-23 01:13:50,704 INFO     message id is:1
+2017-06-23 01:13:53,697 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:13:53,698 INFO     message id is:245
+2017-06-23 01:13:53,700 INFO     message id is:249
+2017-06-23 01:13:53,700 INFO     message id is:248
+2017-06-23 01:13:53,700 INFO     public key associated
+2017-06-23 01:13:53,702 INFO     message id is:1
+2017-06-23 01:13:53,703 INFO     message id is:1
+2017-06-23 01:13:53,703 INFO     message id is:1
+2017-06-23 01:13:53,704 INFO     message id is:1
+2017-06-23 01:13:56,697 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:13:56,699 INFO     message id is:245
+2017-06-23 01:13:56,700 INFO     message id is:249
+2017-06-23 01:13:56,701 INFO     message id is:248
+2017-06-23 01:13:56,701 INFO     public key associated
+2017-06-23 01:13:56,703 INFO     message id is:1
+2017-06-23 01:13:56,703 INFO     message id is:1
+2017-06-23 01:13:56,704 INFO     message id is:1
+2017-06-23 01:13:56,704 INFO     message id is:1
+2017-06-23 01:13:59,697 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:20:18,139 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-23 01:20:18,155 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-23 01:20:18,282 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:20:18,283 INFO     message id is:245
+2017-06-23 01:20:18,284 INFO     message id is:249
+2017-06-23 01:20:18,284 INFO     message id is:248
+2017-06-23 01:20:18,284 INFO     public key associated
+2017-06-23 01:20:18,284 INFO     message id is:1
+2017-06-23 01:20:18,285 INFO     message id is:1
+2017-06-23 01:20:18,285 INFO     message id is:1
+2017-06-23 01:20:18,285 INFO     message id is:1
+2017-06-23 01:20:18,285 INFO     message id is:1
+2017-06-23 01:20:21,285 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:20:21,286 INFO     message id is:245
+2017-06-23 01:20:21,288 INFO     message id is:249
+2017-06-23 01:20:21,288 INFO     message id is:248
+2017-06-23 01:20:21,289 INFO     public key associated
+2017-06-23 01:20:24,285 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:20:24,287 INFO     message id is:245
+2017-06-23 01:20:24,288 INFO     message id is:249
+2017-06-23 01:20:24,289 INFO     message id is:248
+2017-06-23 01:20:24,289 INFO     public key associated
+2017-06-23 01:20:24,290 INFO     message id is:1
+2017-06-23 01:20:24,291 INFO     message id is:1
+2017-06-23 01:20:24,291 INFO     message id is:1
+2017-06-23 01:20:24,292 INFO     message id is:1
+2017-06-23 01:20:27,285 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:20:27,287 INFO     message id is:245
+2017-06-23 01:20:27,288 INFO     message id is:249
+2017-06-23 01:20:27,289 INFO     message id is:248
+2017-06-23 01:20:27,289 INFO     public key associated
+2017-06-23 01:20:27,290 INFO     message id is:1
+2017-06-23 01:20:27,291 INFO     message id is:1
+2017-06-23 01:20:27,291 INFO     message id is:1
+2017-06-23 01:20:27,292 INFO     message id is:1
+2017-06-23 01:20:30,285 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:20:30,286 INFO     message id is:245
+2017-06-23 01:20:30,288 INFO     message id is:249
+2017-06-23 01:20:30,289 INFO     message id is:248
+2017-06-23 01:20:30,289 INFO     public key associated
+2017-06-23 01:20:30,290 INFO     message id is:1
+2017-06-23 01:20:30,291 INFO     message id is:1
+2017-06-23 01:20:30,291 INFO     message id is:1
+2017-06-23 01:20:30,292 INFO     message id is:1
+2017-06-23 01:20:33,285 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:20:33,287 INFO     message id is:245
+2017-06-23 01:20:33,288 INFO     message id is:249
+2017-06-23 01:20:33,289 INFO     message id is:248
+2017-06-23 01:20:33,289 INFO     public key associated
+2017-06-23 01:20:33,290 INFO     message id is:1
+2017-06-23 01:20:33,291 INFO     message id is:1
+2017-06-23 01:20:33,291 INFO     message id is:1
+2017-06-23 01:20:33,292 INFO     message id is:1
+2017-06-23 01:20:36,284 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:20:36,285 INFO     message id is:245
+2017-06-23 01:20:36,285 INFO     message id is:249
+2017-06-23 01:20:36,285 INFO     message id is:248
+2017-06-23 01:20:36,286 INFO     public key associated
+2017-06-23 01:20:36,286 INFO     message id is:1
+2017-06-23 01:20:36,286 INFO     message id is:1
+2017-06-23 01:20:36,286 INFO     message id is:1
+2017-06-23 01:20:36,287 INFO     message id is:1
+2017-06-23 01:20:39,285 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:20:39,286 INFO     message id is:245
+2017-06-23 01:20:39,288 INFO     message id is:249
+2017-06-23 01:20:39,288 INFO     message id is:248
+2017-06-23 01:20:39,288 INFO     public key associated
+2017-06-23 01:20:39,290 INFO     message id is:1
+2017-06-23 01:20:39,290 INFO     message id is:1
+2017-06-23 01:20:39,291 INFO     message id is:1
+2017-06-23 01:20:39,291 INFO     message id is:1
+2017-06-23 01:20:42,285 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:20:42,287 INFO     message id is:245
+2017-06-23 01:20:42,288 INFO     message id is:249
+2017-06-23 01:20:42,288 INFO     message id is:248
+2017-06-23 01:20:42,289 INFO     public key associated
+2017-06-23 01:20:42,290 INFO     message id is:1
+2017-06-23 01:20:42,290 INFO     message id is:1
+2017-06-23 01:20:42,291 INFO     message id is:1
+2017-06-23 01:20:42,291 INFO     message id is:1
+2017-06-23 01:20:45,285 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:20:45,286 INFO     message id is:245
+2017-06-23 01:20:45,288 INFO     message id is:249
+2017-06-23 01:20:45,288 INFO     message id is:248
+2017-06-23 01:20:45,289 INFO     public key associated
+2017-06-23 01:20:45,290 INFO     message id is:1
+2017-06-23 01:20:45,291 INFO     message id is:1
+2017-06-23 01:20:45,291 INFO     message id is:1
+2017-06-23 01:20:45,292 INFO     message id is:1
+2017-06-23 01:20:48,285 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:20:48,286 INFO     message id is:245
+2017-06-23 01:20:48,288 INFO     message id is:249
+2017-06-23 01:20:48,288 INFO     message id is:248
+2017-06-23 01:20:48,289 INFO     public key associated
+2017-06-23 01:20:48,290 INFO     message id is:1
+2017-06-23 01:20:48,291 INFO     message id is:1
+2017-06-23 01:20:48,291 INFO     message id is:1
+2017-06-23 01:20:48,292 INFO     message id is:1
+2017-06-23 01:20:51,285 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:20:51,286 INFO     message id is:245
+2017-06-23 01:20:51,288 INFO     message id is:249
+2017-06-23 01:20:51,288 INFO     message id is:248
+2017-06-23 01:20:51,289 INFO     public key associated
+2017-06-23 01:20:51,290 INFO     message id is:1
+2017-06-23 01:20:51,291 INFO     message id is:1
+2017-06-23 01:20:51,291 INFO     message id is:1
+2017-06-23 01:20:51,292 INFO     message id is:1
+2017-06-23 01:20:54,285 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:20:54,286 INFO     message id is:245
+2017-06-23 01:20:54,288 INFO     message id is:249
+2017-06-23 01:20:54,288 INFO     message id is:248
+2017-06-23 01:20:54,289 INFO     public key associated
+2017-06-23 01:20:54,290 INFO     message id is:1
+2017-06-23 01:20:54,290 INFO     message id is:1
+2017-06-23 01:20:54,291 INFO     message id is:1
+2017-06-23 01:20:54,291 INFO     message id is:1
+2017-06-23 01:20:57,285 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:20:57,286 INFO     message id is:245
+2017-06-23 01:20:57,288 INFO     message id is:249
+2017-06-23 01:20:57,288 INFO     message id is:248
+2017-06-23 01:20:57,289 INFO     public key associated
+2017-06-23 01:20:57,290 INFO     message id is:1
+2017-06-23 01:20:57,291 INFO     message id is:1
+2017-06-23 01:20:57,291 INFO     message id is:1
+2017-06-23 01:20:57,292 INFO     message id is:1
+2017-06-23 01:21:00,285 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:21:00,286 INFO     message id is:245
+2017-06-23 01:21:00,288 INFO     message id is:249
+2017-06-23 01:21:00,288 INFO     message id is:248
+2017-06-23 01:21:00,289 INFO     public key associated
+2017-06-23 01:21:00,290 INFO     message id is:1
+2017-06-23 01:21:00,291 INFO     message id is:1
+2017-06-23 01:21:00,291 INFO     message id is:1
+2017-06-23 01:21:00,292 INFO     message id is:1
+2017-06-23 01:22:37,901 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-23 01:22:37,916 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-23 01:22:38,044 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:22:38,045 INFO     message id is:245
+2017-06-23 01:22:38,046 INFO     message id is:249
+2017-06-23 01:22:38,046 INFO     message id is:248
+2017-06-23 01:22:38,046 INFO     public key associated
+2017-06-23 01:22:41,047 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:22:41,049 INFO     message id is:245
+2017-06-23 01:22:41,050 INFO     message id is:249
+2017-06-23 01:22:41,051 INFO     message id is:248
+2017-06-23 01:22:41,051 INFO     public key associated
+2017-06-23 01:22:44,047 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:22:44,049 INFO     message id is:245
+2017-06-23 01:22:44,051 INFO     message id is:249
+2017-06-23 01:22:44,051 INFO     message id is:248
+2017-06-23 01:22:44,051 INFO     public key associated
+2017-06-23 01:23:52,819 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-23 01:23:52,841 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-23 01:23:53,003 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:23:53,004 INFO     message id is:245
+2017-06-23 01:23:53,005 INFO     message id is:249
+2017-06-23 01:23:53,005 INFO     message id is:248
+2017-06-23 01:23:53,005 INFO     public key associated
+2017-06-23 01:23:53,006 INFO     message id is:1
+2017-06-23 01:23:53,006 INFO     message id is:1
+2017-06-23 01:23:53,006 INFO     message id is:1
+2017-06-23 01:23:53,006 INFO     message id is:1
+2017-06-23 01:23:53,006 INFO     message id is:1
+2017-06-23 01:23:56,006 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:23:56,006 INFO     message id is:245
+2017-06-23 01:23:56,007 INFO     message id is:249
+2017-06-23 01:23:56,007 INFO     message id is:248
+2017-06-23 01:23:56,007 INFO     public key associated
+2017-06-23 01:23:59,006 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:23:59,006 INFO     message id is:245
+2017-06-23 01:23:59,007 INFO     message id is:249
+2017-06-23 01:23:59,007 INFO     message id is:248
+2017-06-23 01:23:59,007 INFO     public key associated
+2017-06-23 01:23:59,007 INFO     message id is:1
+2017-06-23 01:23:59,008 INFO     message id is:1
+2017-06-23 01:23:59,008 INFO     message id is:1
+2017-06-23 01:23:59,008 INFO     message id is:1
+2017-06-23 01:24:02,006 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:24:02,007 INFO     message id is:245
+2017-06-23 01:24:02,008 INFO     message id is:249
+2017-06-23 01:24:02,008 INFO     message id is:248
+2017-06-23 01:24:02,008 INFO     public key associated
+2017-06-23 01:24:02,008 INFO     message id is:1
+2017-06-23 01:24:02,008 INFO     message id is:1
+2017-06-23 01:24:02,009 INFO     message id is:1
+2017-06-23 01:24:02,009 INFO     message id is:1
+2017-06-23 01:24:05,006 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:24:05,007 INFO     message id is:245
+2017-06-23 01:24:05,008 INFO     message id is:249
+2017-06-23 01:24:05,008 INFO     message id is:248
+2017-06-23 01:24:05,008 INFO     public key associated
+2017-06-23 01:24:05,008 INFO     message id is:1
+2017-06-23 01:24:05,009 INFO     message id is:1
+2017-06-23 01:24:05,009 INFO     message id is:1
+2017-06-23 01:24:05,009 INFO     message id is:1
+2017-06-23 01:24:08,004 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:24:08,005 INFO     message id is:245
+2017-06-23 01:24:08,006 INFO     message id is:249
+2017-06-23 01:24:08,006 INFO     message id is:248
+2017-06-23 01:24:08,006 INFO     public key associated
+2017-06-23 01:24:08,006 INFO     message id is:1
+2017-06-23 01:24:08,006 INFO     message id is:1
+2017-06-23 01:24:08,006 INFO     message id is:1
+2017-06-23 01:24:08,007 INFO     message id is:1
+2017-06-23 01:24:11,005 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:24:11,006 INFO     message id is:245
+2017-06-23 01:24:11,006 INFO     message id is:249
+2017-06-23 01:24:11,006 INFO     message id is:248
+2017-06-23 01:24:11,006 INFO     public key associated
+2017-06-23 01:24:11,007 INFO     message id is:1
+2017-06-23 01:24:11,007 INFO     message id is:1
+2017-06-23 01:24:11,007 INFO     message id is:1
+2017-06-23 01:24:11,008 INFO     message id is:1
+2017-06-23 01:24:14,006 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:24:14,007 INFO     message id is:245
+2017-06-23 01:24:14,007 INFO     message id is:249
+2017-06-23 01:24:14,007 INFO     message id is:248
+2017-06-23 01:24:14,007 INFO     public key associated
+2017-06-23 01:24:14,008 INFO     message id is:1
+2017-06-23 01:24:14,008 INFO     message id is:1
+2017-06-23 01:24:14,008 INFO     message id is:1
+2017-06-23 01:24:14,008 INFO     message id is:1
+2017-06-23 01:24:17,004 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:24:17,005 INFO     message id is:245
+2017-06-23 01:24:17,006 INFO     message id is:249
+2017-06-23 01:24:17,006 INFO     message id is:248
+2017-06-23 01:24:17,006 INFO     public key associated
+2017-06-23 01:24:17,007 INFO     message id is:1
+2017-06-23 01:24:17,007 INFO     message id is:1
+2017-06-23 01:24:17,007 INFO     message id is:1
+2017-06-23 01:24:17,007 INFO     message id is:1
+2017-06-23 01:57:51,982 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-23 01:57:51,998 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-23 01:57:52,126 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:57:52,127 INFO     message id is:245
+2017-06-23 01:57:52,128 INFO     message id is:249
+2017-06-23 01:57:52,128 INFO     message id is:248
+2017-06-23 01:57:52,129 INFO     public key associated
+2017-06-23 01:57:52,129 INFO     message id is:1
+2017-06-23 01:57:52,129 INFO     message id is:1
+2017-06-23 01:57:55,129 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:57:55,130 INFO     message id is:245
+2017-06-23 01:57:55,132 INFO     message id is:249
+2017-06-23 01:57:55,132 INFO     message id is:248
+2017-06-23 01:57:55,133 INFO     public key associated
+2017-06-23 01:57:58,129 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:57:58,131 INFO     message id is:245
+2017-06-23 01:57:58,132 INFO     message id is:249
+2017-06-23 01:57:58,132 INFO     message id is:248
+2017-06-23 01:57:58,133 INFO     public key associated
+2017-06-23 01:57:58,133 INFO     message id is:1
+2017-06-23 01:58:01,129 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:58:01,131 INFO     message id is:245
+2017-06-23 01:58:01,132 INFO     message id is:249
+2017-06-23 01:58:01,133 INFO     message id is:248
+2017-06-23 01:58:01,133 INFO     public key associated
+2017-06-23 01:58:01,133 INFO     message id is:1
+2017-06-23 01:58:04,129 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:58:04,130 INFO     message id is:245
+2017-06-23 01:58:04,132 INFO     message id is:249
+2017-06-23 01:58:04,132 INFO     message id is:248
+2017-06-23 01:58:04,133 INFO     public key associated
+2017-06-23 01:58:04,133 INFO     message id is:1
+2017-06-23 01:58:07,130 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:58:07,131 INFO     message id is:245
+2017-06-23 01:58:07,133 INFO     message id is:249
+2017-06-23 01:58:07,133 INFO     message id is:248
+2017-06-23 01:58:07,133 INFO     public key associated
+2017-06-23 01:58:07,134 INFO     message id is:1
+2017-06-23 01:58:10,130 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:58:10,131 INFO     message id is:245
+2017-06-23 01:58:10,133 INFO     message id is:249
+2017-06-23 01:58:10,133 INFO     message id is:248
+2017-06-23 01:58:10,133 INFO     public key associated
+2017-06-23 01:58:10,134 INFO     message id is:1
+2017-06-23 01:58:13,129 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:58:13,131 INFO     message id is:245
+2017-06-23 01:58:13,132 INFO     message id is:249
+2017-06-23 01:58:13,132 INFO     message id is:248
+2017-06-23 01:58:13,133 INFO     public key associated
+2017-06-23 01:58:13,133 INFO     message id is:1
+2017-06-23 01:58:16,129 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:58:16,130 INFO     message id is:245
+2017-06-23 01:58:16,132 INFO     message id is:249
+2017-06-23 01:58:16,133 INFO     message id is:248
+2017-06-23 01:58:16,133 INFO     public key associated
+2017-06-23 01:58:16,134 INFO     message id is:1
+2017-06-23 01:58:19,129 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:58:19,130 INFO     message id is:245
+2017-06-23 01:58:19,132 INFO     message id is:249
+2017-06-23 01:58:19,133 INFO     message id is:248
+2017-06-23 01:58:19,133 INFO     public key associated
+2017-06-23 01:58:19,133 INFO     message id is:1
+2017-06-23 01:58:22,129 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:58:22,130 INFO     message id is:245
+2017-06-23 01:58:22,132 INFO     message id is:249
+2017-06-23 01:58:22,132 INFO     message id is:248
+2017-06-23 01:58:22,133 INFO     public key associated
+2017-06-23 01:58:22,133 INFO     message id is:1
+2017-06-23 01:58:25,129 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:59:09,020 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-23 01:59:09,036 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-23 01:59:09,157 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:59:09,158 INFO     message id is:245
+2017-06-23 01:59:09,158 INFO     message id is:249
+2017-06-23 01:59:09,159 INFO     message id is:248
+2017-06-23 01:59:09,159 INFO     public key associated
+2017-06-23 01:59:09,159 INFO     message id is:1
+2017-06-23 01:59:09,159 INFO     message id is:1
+2017-06-23 01:59:14,161 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:59:14,163 INFO     message id is:245
+2017-06-23 01:59:14,164 INFO     message id is:249
+2017-06-23 01:59:14,165 INFO     message id is:248
+2017-06-23 01:59:14,165 INFO     public key associated
+2017-06-23 01:59:19,162 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:59:19,163 INFO     message id is:245
+2017-06-23 01:59:19,165 INFO     message id is:249
+2017-06-23 01:59:19,165 INFO     message id is:248
+2017-06-23 01:59:19,165 INFO     public key associated
+2017-06-23 01:59:19,166 INFO     message id is:1
+2017-06-23 01:59:24,162 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:59:24,163 INFO     message id is:245
+2017-06-23 01:59:24,165 INFO     message id is:249
+2017-06-23 01:59:24,165 INFO     message id is:248
+2017-06-23 01:59:24,166 INFO     public key associated
+2017-06-23 01:59:24,166 INFO     message id is:1
+2017-06-23 01:59:29,162 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:59:29,163 INFO     message id is:245
+2017-06-23 01:59:29,165 INFO     message id is:249
+2017-06-23 01:59:29,165 INFO     message id is:248
+2017-06-23 01:59:29,166 INFO     public key associated
+2017-06-23 01:59:29,166 INFO     message id is:1
+2017-06-23 01:59:34,161 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:59:34,163 INFO     message id is:245
+2017-06-23 01:59:34,164 INFO     message id is:249
+2017-06-23 01:59:34,165 INFO     message id is:248
+2017-06-23 01:59:34,165 INFO     public key associated
+2017-06-23 01:59:34,166 INFO     message id is:1
+2017-06-23 01:59:39,162 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:59:39,163 INFO     message id is:245
+2017-06-23 01:59:39,165 INFO     message id is:249
+2017-06-23 01:59:39,165 INFO     message id is:248
+2017-06-23 01:59:39,165 INFO     public key associated
+2017-06-23 01:59:39,166 INFO     message id is:1
+2017-06-23 01:59:44,162 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:59:44,163 INFO     message id is:245
+2017-06-23 01:59:44,165 INFO     message id is:249
+2017-06-23 01:59:44,165 INFO     message id is:248
+2017-06-23 01:59:44,166 INFO     public key associated
+2017-06-23 01:59:44,166 INFO     message id is:1
+2017-06-23 01:59:49,161 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:59:49,163 INFO     message id is:245
+2017-06-23 01:59:49,165 INFO     message id is:249
+2017-06-23 01:59:49,165 INFO     message id is:248
+2017-06-23 01:59:49,165 INFO     public key associated
+2017-06-23 01:59:49,166 INFO     message id is:1
+2017-06-23 01:59:54,161 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:59:54,163 INFO     message id is:245
+2017-06-23 01:59:54,164 INFO     message id is:249
+2017-06-23 01:59:54,165 INFO     message id is:248
+2017-06-23 01:59:54,165 INFO     public key associated
+2017-06-23 01:59:54,165 INFO     message id is:1
+2017-06-23 01:59:59,162 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 01:59:59,163 INFO     message id is:245
+2017-06-23 01:59:59,165 INFO     message id is:249
+2017-06-23 01:59:59,165 INFO     message id is:248
+2017-06-23 01:59:59,166 INFO     public key associated
+2017-06-23 01:59:59,166 INFO     message id is:1
+2017-06-23 02:05:07,424 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-23 02:05:07,450 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-23 02:05:07,581 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 02:05:07,582 INFO     message id is:245
+2017-06-23 02:05:07,583 INFO     message id is:249
+2017-06-23 02:05:07,583 INFO     message id is:248
+2017-06-23 02:05:07,583 INFO     public key associated
+2017-06-23 02:05:07,583 INFO     message id is:1
+2017-06-23 02:05:07,583 INFO     message id is:1
+2017-06-23 02:05:12,586 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 02:05:12,588 INFO     message id is:245
+2017-06-23 02:05:12,589 INFO     message id is:249
+2017-06-23 02:05:12,590 INFO     message id is:248
+2017-06-23 02:05:12,590 INFO     public key associated
+2017-06-23 02:05:17,586 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 02:05:17,588 INFO     message id is:245
+2017-06-23 02:05:17,590 INFO     message id is:249
+2017-06-23 02:05:17,590 INFO     message id is:248
+2017-06-23 02:05:17,590 INFO     public key associated
+2017-06-23 02:05:17,591 INFO     message id is:1
+2017-06-23 02:05:22,586 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 02:05:22,587 INFO     message id is:245
+2017-06-23 02:05:22,589 INFO     message id is:249
+2017-06-23 02:05:22,589 INFO     message id is:248
+2017-06-23 02:05:22,590 INFO     public key associated
+2017-06-23 02:05:22,590 INFO     message id is:1
+2017-06-23 02:05:27,587 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 02:05:27,588 INFO     message id is:245
+2017-06-23 02:05:27,590 INFO     message id is:249
+2017-06-23 02:05:27,590 INFO     message id is:248
+2017-06-23 02:05:27,591 INFO     public key associated
+2017-06-23 02:05:27,591 INFO     message id is:1
+2017-06-23 02:05:32,586 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 02:05:32,588 INFO     message id is:245
+2017-06-23 02:05:32,589 INFO     message id is:249
+2017-06-23 02:05:32,590 INFO     message id is:248
+2017-06-23 02:05:32,590 INFO     public key associated
+2017-06-23 02:05:32,590 INFO     message id is:1
+2017-06-23 02:05:37,587 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 02:05:37,588 INFO     message id is:245
+2017-06-23 02:05:37,589 INFO     message id is:249
+2017-06-23 02:05:37,590 INFO     message id is:248
+2017-06-23 02:05:37,590 INFO     public key associated
+2017-06-23 02:05:37,590 INFO     message id is:1
+2017-06-23 02:11:36,386 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-23 02:11:36,402 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-23 02:11:36,529 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 02:11:36,530 INFO     message id is:245
+2017-06-23 02:11:36,532 INFO     message id is:249
+2017-06-23 02:11:36,532 INFO     message id is:248
+2017-06-23 02:11:36,532 INFO     public key associated
+2017-06-23 02:11:36,532 INFO     message id is:1
+2017-06-23 02:11:36,533 INFO     message id is:1
+2017-06-23 02:11:36,533 INFO     message id is:1
+2017-06-23 02:11:36,533 INFO     message id is:1
+2017-06-23 02:11:36,533 INFO     message id is:1
+2017-06-23 02:11:41,534 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 02:11:41,536 INFO     message id is:245
+2017-06-23 02:11:41,537 INFO     message id is:249
+2017-06-23 02:11:41,538 INFO     message id is:248
+2017-06-23 02:11:41,538 INFO     public key associated
+2017-06-23 02:11:46,533 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 02:11:46,535 INFO     message id is:245
+2017-06-23 02:11:46,536 INFO     message id is:249
+2017-06-23 02:11:46,536 INFO     message id is:248
+2017-06-23 02:11:46,537 INFO     public key associated
+2017-06-23 02:11:46,538 INFO     message id is:1
+2017-06-23 02:11:46,539 INFO     message id is:1
+2017-06-23 02:11:46,539 INFO     message id is:1
+2017-06-23 02:11:46,540 INFO     message id is:1
+2017-06-23 02:11:51,534 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 02:11:51,536 INFO     message id is:245
+2017-06-23 02:11:51,537 INFO     message id is:249
+2017-06-23 02:11:51,537 INFO     message id is:248
+2017-06-23 02:11:51,538 INFO     public key associated
+2017-06-23 02:11:51,539 INFO     message id is:1
+2017-06-23 02:11:51,540 INFO     message id is:1
+2017-06-23 02:11:51,540 INFO     message id is:1
+2017-06-23 02:11:51,540 INFO     message id is:1
+2017-06-23 02:11:56,534 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 02:11:56,536 INFO     message id is:245
+2017-06-23 02:11:56,538 INFO     message id is:249
+2017-06-23 02:11:56,538 INFO     message id is:248
+2017-06-23 02:11:56,539 INFO     public key associated
+2017-06-23 02:11:56,540 INFO     message id is:1
+2017-06-23 02:11:56,540 INFO     message id is:1
+2017-06-23 02:11:56,541 INFO     message id is:1
+2017-06-23 02:11:56,541 INFO     message id is:1
+2017-06-23 02:12:01,534 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 02:12:01,536 INFO     message id is:245
+2017-06-23 02:12:01,537 INFO     message id is:249
+2017-06-23 02:12:01,538 INFO     message id is:248
+2017-06-23 02:12:01,538 INFO     public key associated
+2017-06-23 02:12:01,540 INFO     message id is:1
+2017-06-23 02:12:01,540 INFO     message id is:1
+2017-06-23 02:12:01,541 INFO     message id is:1
+2017-06-23 02:12:01,541 INFO     message id is:1
+2017-06-23 02:12:06,534 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 02:13:42,830 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-23 02:13:42,847 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-23 02:13:42,979 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 02:13:42,980 INFO     message id is:245
+2017-06-23 02:13:42,981 INFO     message id is:249
+2017-06-23 02:13:42,981 INFO     message id is:248
+2017-06-23 02:13:42,981 INFO     public key associated
+2017-06-23 02:13:42,981 INFO     message id is:1
+2017-06-23 02:13:42,981 INFO     message id is:1
+2017-06-23 02:13:42,982 INFO     message id is:1
+2017-06-23 02:13:42,982 INFO     message id is:1
+2017-06-23 02:13:42,982 INFO     message id is:1
+2017-06-23 02:13:47,982 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 02:13:47,983 INFO     message id is:245
+2017-06-23 02:13:47,985 INFO     message id is:249
+2017-06-23 02:13:47,985 INFO     message id is:248
+2017-06-23 02:13:47,986 INFO     public key associated
+2017-06-23 02:13:52,984 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 02:13:52,985 INFO     message id is:245
+2017-06-23 02:13:52,987 INFO     message id is:249
+2017-06-23 02:13:52,987 INFO     message id is:248
+2017-06-23 02:13:52,988 INFO     public key associated
+2017-06-23 02:13:52,989 INFO     message id is:1
+2017-06-23 02:13:52,989 INFO     message id is:1
+2017-06-23 02:13:52,990 INFO     message id is:1
+2017-06-23 02:13:52,990 INFO     message id is:1
+2017-06-23 02:13:57,984 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 02:13:57,985 INFO     message id is:245
+2017-06-23 02:13:57,987 INFO     message id is:249
+2017-06-23 02:13:57,987 INFO     message id is:248
+2017-06-23 02:13:57,988 INFO     public key associated
+2017-06-23 02:13:57,989 INFO     message id is:1
+2017-06-23 02:13:57,989 INFO     message id is:1
+2017-06-23 02:13:57,989 INFO     message id is:1
+2017-06-23 02:13:57,990 INFO     message id is:1
+2017-06-23 02:14:02,984 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 02:14:02,986 INFO     message id is:245
+2017-06-23 02:14:02,988 INFO     message id is:249
+2017-06-23 02:14:02,988 INFO     message id is:248
+2017-06-23 02:14:02,989 INFO     public key associated
+2017-06-23 02:14:02,989 INFO     message id is:1
+2017-06-23 02:14:02,990 INFO     message id is:1
+2017-06-23 02:14:02,990 INFO     message id is:1
+2017-06-23 02:14:02,990 INFO     message id is:1
+2017-06-23 02:14:07,982 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 02:14:07,983 INFO     message id is:245
+2017-06-23 02:14:07,985 INFO     message id is:249
+2017-06-23 02:14:07,985 INFO     message id is:248
+2017-06-23 02:14:07,986 INFO     public key associated
+2017-06-23 02:14:07,987 INFO     message id is:1
+2017-06-23 02:14:07,988 INFO     message id is:1
+2017-06-23 02:14:07,988 INFO     message id is:1
+2017-06-23 02:14:07,988 INFO     message id is:1
+2017-06-23 02:16:11,057 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-23 02:16:11,073 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-23 02:16:11,204 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 02:16:11,205 INFO     message id is:245
+2017-06-23 02:16:11,206 INFO     message id is:249
+2017-06-23 02:16:11,206 INFO     message id is:248
+2017-06-23 02:16:11,207 INFO     public key associated
+2017-06-23 02:16:11,207 INFO     message id is:1
+2017-06-23 02:16:11,208 INFO     message id is:1
+2017-06-23 02:16:11,208 INFO     message id is:1
+2017-06-23 02:16:11,208 INFO     message id is:1
+2017-06-23 02:16:11,208 INFO     message id is:1
+2017-06-23 02:16:16,209 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 02:16:16,211 INFO     message id is:245
+2017-06-23 02:16:16,212 INFO     message id is:249
+2017-06-23 02:16:16,213 INFO     message id is:248
+2017-06-23 02:16:16,213 INFO     public key associated
+2017-06-23 02:16:21,209 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 02:16:21,211 INFO     message id is:245
+2017-06-23 02:16:21,212 INFO     message id is:249
+2017-06-23 02:16:21,213 INFO     message id is:248
+2017-06-23 02:16:21,213 INFO     public key associated
+2017-06-23 02:16:21,214 INFO     message id is:1
+2017-06-23 02:16:21,215 INFO     message id is:1
+2017-06-23 02:16:21,215 INFO     message id is:1
+2017-06-23 02:16:21,216 INFO     message id is:1
+2017-06-23 02:16:26,209 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 02:16:26,210 INFO     message id is:245
+2017-06-23 02:16:26,212 INFO     message id is:249
+2017-06-23 02:16:26,212 INFO     message id is:248
+2017-06-23 02:16:26,213 INFO     public key associated
+2017-06-23 02:16:26,214 INFO     message id is:1
+2017-06-23 02:16:26,215 INFO     message id is:1
+2017-06-23 02:16:26,215 INFO     message id is:1
+2017-06-23 02:16:26,216 INFO     message id is:1
+2017-06-23 02:16:31,209 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 02:16:31,210 INFO     message id is:245
+2017-06-23 02:16:31,212 INFO     message id is:249
+2017-06-23 02:16:31,212 INFO     message id is:248
+2017-06-23 02:16:31,212 INFO     public key associated
+2017-06-23 02:16:31,214 INFO     message id is:1
+2017-06-23 02:16:31,214 INFO     message id is:1
+2017-06-23 02:16:31,215 INFO     message id is:1
+2017-06-23 02:16:31,215 INFO     message id is:1
+2017-06-23 03:36:34,327 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-23 03:36:34,347 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-23 03:36:34,486 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 03:36:34,487 INFO     message id is:245
+2017-06-23 03:36:34,487 INFO     message id is:249
+2017-06-23 03:36:34,488 INFO     message id is:248
+2017-06-23 03:36:34,488 INFO     public key associated
+2017-06-23 03:36:34,488 INFO     message id is:1
+2017-06-23 03:36:34,488 INFO     message id is:1
+2017-06-23 03:36:34,488 INFO     message id is:1
+2017-06-23 03:36:34,489 INFO     message id is:1
+2017-06-23 03:36:39,492 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 03:36:39,493 INFO     message id is:245
+2017-06-23 03:36:39,494 INFO     message id is:249
+2017-06-23 03:36:39,494 INFO     message id is:248
+2017-06-23 03:36:39,495 INFO     public key associated
+2017-06-23 03:36:39,496 INFO     message id is:1
+2017-06-23 03:36:39,496 INFO     message id is:1
+2017-06-23 03:36:39,497 INFO     message id is:1
+2017-06-23 03:36:39,497 INFO     message id is:1
+2017-06-23 03:36:44,491 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 03:36:44,493 INFO     message id is:245
+2017-06-23 03:36:44,494 INFO     message id is:249
+2017-06-23 03:36:44,495 INFO     message id is:248
+2017-06-23 03:36:44,495 INFO     public key associated
+2017-06-23 03:36:44,496 INFO     message id is:1
+2017-06-23 03:36:44,497 INFO     message id is:1
+2017-06-23 03:36:44,497 INFO     message id is:1
+2017-06-23 03:36:44,498 INFO     message id is:1
+2017-06-23 03:36:49,490 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 03:36:49,491 INFO     message id is:245
+2017-06-23 03:36:49,492 INFO     message id is:249
+2017-06-23 03:36:49,492 INFO     message id is:248
+2017-06-23 03:36:49,492 INFO     public key associated
+2017-06-23 03:36:49,492 INFO     message id is:1
+2017-06-23 03:36:49,492 INFO     message id is:1
+2017-06-23 03:36:49,492 INFO     message id is:1
+2017-06-23 03:36:49,493 INFO     message id is:1
+2017-06-23 03:36:54,492 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 03:36:54,493 INFO     message id is:245
+2017-06-23 03:36:54,495 INFO     message id is:249
+2017-06-23 03:36:54,495 INFO     message id is:248
+2017-06-23 03:36:54,496 INFO     public key associated
+2017-06-23 03:36:54,497 INFO     message id is:1
+2017-06-23 03:36:54,498 INFO     message id is:1
+2017-06-23 03:36:54,498 INFO     message id is:1
+2017-06-23 03:36:54,499 INFO     message id is:1
+2017-06-23 03:36:59,491 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 03:36:59,492 INFO     message id is:245
+2017-06-23 03:36:59,494 INFO     message id is:249
+2017-06-23 03:36:59,495 INFO     message id is:248
+2017-06-23 03:36:59,495 INFO     public key associated
+2017-06-23 03:36:59,496 INFO     message id is:1
+2017-06-23 03:36:59,496 INFO     message id is:1
+2017-06-23 03:36:59,497 INFO     message id is:1
+2017-06-23 03:36:59,497 INFO     message id is:1
+2017-06-23 03:37:04,492 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 03:37:04,493 INFO     message id is:245
+2017-06-23 03:37:04,495 INFO     message id is:249
+2017-06-23 03:37:04,495 INFO     message id is:248
+2017-06-23 03:37:04,496 INFO     public key associated
+2017-06-23 03:37:04,497 INFO     message id is:1
+2017-06-23 03:37:04,497 INFO     message id is:1
+2017-06-23 03:37:04,498 INFO     message id is:1
+2017-06-23 03:37:04,498 INFO     message id is:1
+2017-06-23 03:37:09,491 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 03:37:09,492 INFO     message id is:245
+2017-06-23 03:37:09,494 INFO     message id is:249
+2017-06-23 03:37:09,494 INFO     message id is:248
+2017-06-23 03:37:09,495 INFO     public key associated
+2017-06-23 03:37:09,495 INFO     message id is:1
+2017-06-23 03:37:09,496 INFO     message id is:1
+2017-06-23 03:37:09,496 INFO     message id is:1
+2017-06-23 03:37:09,497 INFO     message id is:1
+2017-06-23 03:37:14,491 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 03:37:14,492 INFO     message id is:245
+2017-06-23 03:37:14,494 INFO     message id is:249
+2017-06-23 03:37:14,495 INFO     message id is:248
+2017-06-23 03:37:14,495 INFO     public key associated
+2017-06-23 03:37:14,496 INFO     message id is:1
+2017-06-23 03:37:14,496 INFO     message id is:1
+2017-06-23 03:37:14,496 INFO     message id is:1
+2017-06-23 03:37:14,497 INFO     message id is:1
+2017-06-23 03:37:52,075 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-23 03:37:52,090 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-23 03:37:52,210 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 03:37:52,211 INFO     message id is:245
+2017-06-23 03:37:52,212 INFO     message id is:249
+2017-06-23 03:37:52,212 INFO     message id is:248
+2017-06-23 03:37:52,212 INFO     public key associated
+2017-06-23 03:37:57,215 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 03:37:57,217 INFO     message id is:245
+2017-06-23 03:37:57,219 INFO     message id is:249
+2017-06-23 03:37:57,219 INFO     message id is:248
+2017-06-23 03:37:57,219 INFO     public key associated
+2017-06-23 03:38:02,215 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 03:38:02,217 INFO     message id is:245
+2017-06-23 03:38:02,219 INFO     message id is:249
+2017-06-23 03:38:02,219 INFO     message id is:248
+2017-06-23 03:38:02,219 INFO     public key associated
+2017-06-23 03:38:21,648 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-23 03:38:21,664 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-23 03:38:21,784 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 03:38:21,952 INFO     message id is:245
+2017-06-23 03:38:21,953 INFO     message id is:249
+2017-06-23 03:38:21,954 INFO     message id is:248
+2017-06-23 03:38:22,005 INFO     public key associated
+2017-06-23 03:38:26,789 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 03:38:26,790 INFO     message id is:245
+2017-06-23 03:38:26,792 INFO     message id is:249
+2017-06-23 03:38:26,793 INFO     message id is:248
+2017-06-23 03:38:26,793 INFO     public key associated
+2017-06-23 03:38:26,794 INFO     message id is:1
+2017-06-23 03:38:26,854 INFO     message id is:1
+2017-06-23 03:38:26,909 INFO     message id is:1
+2017-06-23 03:38:26,976 INFO     message id is:1
+2017-06-23 03:38:31,789 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 03:38:31,790 INFO     message id is:245
+2017-06-23 03:38:31,793 INFO     message id is:249
+2017-06-23 03:38:31,793 INFO     message id is:248
+2017-06-23 03:38:31,793 INFO     public key associated
+2017-06-23 03:38:36,790 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 03:38:36,791 INFO     message id is:245
+2017-06-23 03:38:36,793 INFO     message id is:249
+2017-06-23 03:38:36,794 INFO     message id is:248
+2017-06-23 03:38:36,794 INFO     public key associated
+2017-06-23 15:33:27,569 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-23 15:33:27,593 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-23 15:33:27,733 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 15:33:27,734 INFO     message id is:245
+2017-06-23 15:33:27,734 INFO     message id is:249
+2017-06-23 15:33:27,735 INFO     message id is:248
+2017-06-23 15:33:27,735 INFO     public key associated
+2017-06-23 15:33:32,739 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 15:33:32,740 INFO     message id is:245
+2017-06-23 15:33:32,742 INFO     message id is:249
+2017-06-23 15:33:32,742 INFO     message id is:248
+2017-06-23 15:33:32,743 INFO     public key associated
+2017-06-23 15:33:37,739 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 15:33:37,740 INFO     message id is:245
+2017-06-23 15:33:37,742 INFO     message id is:249
+2017-06-23 15:33:37,742 INFO     message id is:248
+2017-06-23 15:33:37,743 INFO     public key associated
+2017-06-23 15:33:42,738 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 15:33:42,739 INFO     message id is:245
+2017-06-23 15:33:42,741 INFO     message id is:249
+2017-06-23 15:33:42,741 INFO     message id is:248
+2017-06-23 15:33:42,742 INFO     public key associated
+2017-06-23 15:33:47,738 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 15:33:47,739 INFO     message id is:245
+2017-06-23 15:33:47,741 INFO     message id is:249
+2017-06-23 15:33:47,741 INFO     message id is:248
+2017-06-23 15:33:47,742 INFO     public key associated
+2017-06-23 15:33:52,738 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 15:33:52,739 INFO     message id is:245
+2017-06-23 15:33:52,741 INFO     message id is:249
+2017-06-23 15:33:52,741 INFO     message id is:248
+2017-06-23 15:33:52,742 INFO     public key associated
+2017-06-23 15:33:57,738 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 15:33:57,740 INFO     message id is:245
+2017-06-23 15:33:57,742 INFO     message id is:249
+2017-06-23 15:33:57,742 INFO     message id is:248
+2017-06-23 15:33:57,742 INFO     public key associated
+2017-06-23 15:34:02,739 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 15:34:02,740 INFO     message id is:245
+2017-06-23 15:34:02,742 INFO     message id is:249
+2017-06-23 15:34:02,742 INFO     message id is:248
+2017-06-23 15:34:02,742 INFO     public key associated
+2017-06-23 15:34:07,739 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 15:34:07,740 INFO     message id is:245
+2017-06-23 15:34:07,742 INFO     message id is:249
+2017-06-23 15:34:07,742 INFO     message id is:248
+2017-06-23 15:34:07,743 INFO     public key associated
+2017-06-23 15:34:12,738 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 15:34:12,739 INFO     message id is:245
+2017-06-23 15:34:12,741 INFO     message id is:249
+2017-06-23 15:34:12,742 INFO     message id is:248
+2017-06-23 15:34:12,742 INFO     public key associated
+2017-06-23 15:34:17,738 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 15:34:17,740 INFO     message id is:245
+2017-06-23 15:34:17,741 INFO     message id is:249
+2017-06-23 15:34:17,742 INFO     message id is:248
+2017-06-23 15:34:17,742 INFO     public key associated
+2017-06-23 15:37:37,890 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-23 15:37:37,905 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-23 15:37:38,026 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 15:37:38,027 INFO     message id is:245
+2017-06-23 15:37:38,028 INFO     message id is:249
+2017-06-23 15:37:38,028 INFO     message id is:248
+2017-06-23 15:37:38,029 INFO     public key associated
+2017-06-23 15:37:43,031 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 15:37:43,032 INFO     message id is:245
+2017-06-23 15:37:43,034 INFO     message id is:249
+2017-06-23 15:37:43,035 INFO     message id is:248
+2017-06-23 15:37:43,035 INFO     public key associated
+2017-06-23 15:37:48,031 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 15:37:48,033 INFO     message id is:245
+2017-06-23 15:37:48,035 INFO     message id is:249
+2017-06-23 15:37:48,035 INFO     message id is:248
+2017-06-23 15:37:48,036 INFO     public key associated
+2017-06-23 15:37:53,031 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 15:37:53,032 INFO     message id is:245
+2017-06-23 15:37:53,034 INFO     message id is:249
+2017-06-23 15:37:53,035 INFO     message id is:248
+2017-06-23 15:37:53,035 INFO     public key associated
+2017-06-23 15:37:58,031 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 15:37:58,033 INFO     message id is:245
+2017-06-23 15:37:58,035 INFO     message id is:249
+2017-06-23 15:37:58,035 INFO     message id is:248
+2017-06-23 15:37:58,036 INFO     public key associated
+2017-06-23 15:38:03,031 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 15:38:03,032 INFO     message id is:245
+2017-06-23 15:38:03,035 INFO     message id is:249
+2017-06-23 15:38:03,035 INFO     message id is:248
+2017-06-23 15:38:03,035 INFO     public key associated
+2017-06-23 15:38:08,031 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 15:38:08,033 INFO     message id is:245
+2017-06-23 15:38:08,035 INFO     message id is:249
+2017-06-23 15:38:08,035 INFO     message id is:248
+2017-06-23 15:38:08,036 INFO     public key associated
+2017-06-23 15:38:13,031 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 15:38:13,032 INFO     message id is:245
+2017-06-23 15:38:13,034 INFO     message id is:249
+2017-06-23 15:38:13,035 INFO     message id is:248
+2017-06-23 15:38:13,035 INFO     public key associated
+2017-06-23 15:38:18,031 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 15:38:18,033 INFO     message id is:245
+2017-06-23 15:38:18,035 INFO     message id is:249
+2017-06-23 15:38:18,035 INFO     message id is:248
+2017-06-23 15:38:18,036 INFO     public key associated
+2017-06-23 15:43:04,978 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+2017-06-23 15:43:04,994 INFO     Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+2017-06-23 15:43:05,114 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 15:43:05,115 INFO     message id is:245
+2017-06-23 15:43:05,116 INFO     message id is:249
+2017-06-23 15:43:10,119 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 15:43:10,120 INFO     message id is:245
+2017-06-23 15:43:10,122 INFO     message id is:249
+2017-06-23 15:43:15,119 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 15:43:15,120 INFO     message id is:245
+2017-06-23 15:43:15,460 INFO     message id is:249
+2017-06-23 15:43:20,119 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 15:43:20,120 INFO     message id is:245
+2017-06-23 15:43:20,122 INFO     message id is:249
+2017-06-23 15:43:25,119 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 15:43:25,121 INFO     message id is:245
+2017-06-23 15:43:25,122 INFO     message id is:249
+2017-06-23 15:43:30,120 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 15:43:30,121 INFO     message id is:245
+2017-06-23 15:43:30,122 INFO     message id is:249
+2017-06-23 15:43:35,120 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 15:43:35,121 INFO     message id is:245
+2017-06-23 15:43:35,123 INFO     message id is:249
+2017-06-23 15:43:40,120 INFO     take step to: ('127.0.0.1', 10700)
+2017-06-23 15:43:40,121 INFO     message id is:245
+2017-06-23 15:43:40,123 INFO     message id is:249
